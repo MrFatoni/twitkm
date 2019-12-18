@@ -1,0 +1,6 @@
+runtime: php73 # Replace with php73 to use the PHP 7.3 runtime
+
+handlers:
+# Serve your app through a front controller at index.php or public/index.php.
+- url: .*
+  script: auto
