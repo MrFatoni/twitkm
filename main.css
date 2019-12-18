@@ -1,0 +1,108 @@
+body{margin:0;font-family: 'Nunito', sans-serif;font-size:17px;
+background: #eee;color: #555;}
+body a{text-decoration:none;}
+header{position: fixed;top:0;left:0;width:100%;}
+header a{color:#fff;}
+.nav-icon div,.nav-icon:after,.nav-icon:before {
+    background-color: #fff;
+    -o-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    content: '';
+    display: block;
+    height: 3px;
+    margin: 5px 0;
+    -moz-transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out
+}
+
+header .flex{
+    margin: 0px auto;
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: space-between;
+    padding: 5px 10px;
+    background: #26cfea;
+    color: #fff;
+    align-items: center;
+    box-shadow: #9c9999b3 0px 1px 1px;
+    }
+
+/*--max -width --*/
+@media (min-width: 769px) { 
+.mainflex {margin:20px 5px;
+    flex-direction: row;
+    display: flex;
+    flex: 1 1 auto;
+}
+
+main {padding:20px;margin:0px auto;max-width:600px;flex: 1 1 auto;}
+aside{padding:20px;flex: 1 1 40%;max-width:600px;}
+
+
+}
+@media (max-width: 768px) {
+main,aside{margin:20px}    
+}    
+ 
+   
+
+.logo {font-size: 30px;}
+main h3,aside h3 {font-size:24px;font-family:Arial;color:#565656}
+ .logo,.menu{display:inline-block;padding:5px;font-family: 'Dosis', sans-serif;}
+ .menu{min-width:30px;}
+.kata,.hash,.emot,.users{margin:10px auto;max-width:1000px;}
+.hash span:before{content:'#'}
+.users span:before{content:'@'}
+.kata span,.emot span,.hash span,.users span{display:inline-block;margin:3px;padding:5px;color:#fff;border-radius: 4px;box-shadow: #ccc 1px 1px 2px;cursor:pointer;}
+.kata span{background:orange;}
+.users span{background: #2196F3;}
+.hash span{background: #4CAF50;}
+.emot span{background:white;}
+.countr:after{content:attr(data-key);font-size: 60%;color:#fff;vertical-align: super;} 
+
+
+.twr {border:#eee solid 1px;margin:5px 0px;padding:10px;background: #fff;}
+.text {}
+.stat {font-size: 90%;text-align: left;}
+.twh {
+    font-size: 90%;
+    font-weight: 400;
+    padding: 5px;
+    text-align: right;
+    color: #a7a4a4;
+}
+
+.twh a.date {font-size: 80%;color:#2196F3}
+.retweet,.favorite{padding:5px;margin:5px;display:inline-block;color:grey;text-align: center;}
+.stat .retweet:after{content:'retweet';vertical-align:super;vertical-align: super;
+    display: block;
+}
+.stat .favorite:after{content:'favorite';vertical-align:super;vertical-align: super;
+    display: block;
+}
+
+.profwrp {padding:80px 10px 10px;text-align:center;background:#fff}
+.profpic {padding:5px}
+.profpic img {border-radius:50%;max-width:140px}
+.profdesc {}
+.profstat {display:flex;justify-content:center}
+.profstat>div{padding:5px;margin:5px;text-align:center}
+.status:after{content:'status';}
+.flwr:after{content:'follower'}
+.flwng:after{content:'friend'}
+.status:after, .flwr:after, .flwng:after{
+font-size:90%;display:block;color:#a5a3a3}
+.profdesc h3{margin:0;line-height:1em}
+.profdesc h3{font-weight:normal}
+.profdesc h3 span{}
+.profdesc h3 .name{}
+.profdesc .screen_name:before{content:'@'}
+
+footer {background:#26cfea;color:#fff;font-size:90%}
+footer a{color:#fff}
+.footer {padding:20px 5px}
+.footer p {}

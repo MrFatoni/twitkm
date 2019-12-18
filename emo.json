@@ -1,0 +1,7162 @@
+[
+  {
+    "emo": "😀",
+    "ket": "grinning",
+    "kode": "\\ud83d\\ude00"
+  },
+  {
+    "emo": "😃",
+    "ket": "smiley",
+    "kode": "\\ud83d\\ude03"
+  },
+  {
+    "emo": "😄",
+    "ket": "smile",
+    "kode": "\\ud83d\\ude04"
+  },
+  {
+    "emo": "😁",
+    "ket": "grin",
+    "kode": "\\ud83d\\ude01"
+  },
+  {
+    "emo": "😆",
+    "ket": "laughing; satisfied",
+    "kode": "\\ud83d\\ude06"
+  },
+  {
+    "emo": "😅",
+    "ket": "sweat_smile",
+    "kode": "\\ud83d\\ude05"
+  },
+  {
+    "emo": "😂",
+    "ket": "joy",
+    "kode": "\\ud83d\\ude02"
+  },
+  {
+    "emo": "🤣",
+    "ket": "rofl",
+    "kode": "\\ud83e\\udd23"
+  },
+  {
+    "emo": "☺️",
+    "ket": "relaxed",
+    "kode": "\\u263a\\ufe0f"
+  },
+  {
+    "emo": "😊",
+    "ket": "blush",
+    "kode": "\\ud83d\\ude0a"
+  },
+  {
+    "emo": "😇",
+    "ket": "innocent",
+    "kode": "\\ud83d\\ude07"
+  },
+  {
+    "emo": "🙂",
+    "ket": "slightly_smiling_face",
+    "kode": "\\ud83d\\ude42"
+  },
+  {
+    "emo": "🙃",
+    "ket": "upside_down_face",
+    "kode": "\\ud83d\\ude43"
+  },
+  {
+    "emo": "😉",
+    "ket": "wink",
+    "kode": "\\ud83d\\ude09"
+  },
+  {
+    "emo": "😌",
+    "ket": "relieved",
+    "kode": "\\ud83d\\ude0c"
+  },
+  {
+    "emo": "😍",
+    "ket": "heart_eyes",
+    "kode": "\\ud83d\\ude0d"
+  },
+  {
+    "emo": "😘",
+    "ket": "kissing_heart",
+    "kode": "\\ud83d\\ude18"
+  },
+  {
+    "emo": "😗",
+    "ket": "kissing",
+    "kode": "\\ud83d\\ude17"
+  },
+  {
+    "emo": "😙",
+    "ket": "kissing_smiling_eyes",
+    "kode": "\\ud83d\\ude19"
+  },
+  {
+    "emo": "😚",
+    "ket": "kissing_closed_eyes",
+    "kode": "\\ud83d\\ude1a"
+  },
+  {
+    "emo": "😋",
+    "ket": "yum",
+    "kode": "\\ud83d\\ude0b"
+  },
+  {
+    "emo": "😜",
+    "ket": "stuck_out_tongue_winking_eye",
+    "kode": "\\ud83d\\ude1c"
+  },
+  {
+    "emo": "😝",
+    "ket": "stuck_out_tongue_closed_eyes",
+    "kode": "\\ud83d\\ude1d"
+  },
+  {
+    "emo": "😛",
+    "ket": "stuck_out_tongue",
+    "kode": "\\ud83d\\ude1b"
+  },
+  {
+    "emo": "🤑",
+    "ket": "money_mouth_face",
+    "kode": "\\ud83e\\udd11"
+  },
+  {
+    "emo": "🤗",
+    "ket": "hugs",
+    "kode": "\\ud83e\\udd17"
+  },
+  {
+    "emo": "🤓",
+    "ket": "nerd_face",
+    "kode": "\\ud83e\\udd13"
+  },
+  {
+    "emo": "😎",
+    "ket": "sunglasses",
+    "kode": "\\ud83d\\ude0e"
+  },
+  {
+    "emo": "🤡",
+    "ket": "clown_face",
+    "kode": "\\ud83e\\udd21"
+  },
+  {
+    "emo": "🤠",
+    "ket": "cowboy_hat_face",
+    "kode": "\\ud83e\\udd20"
+  },
+  {
+    "emo": "😏",
+    "ket": "smirk",
+    "kode": "\\ud83d\\ude0f"
+  },
+  {
+    "emo": "😒",
+    "ket": "unamused",
+    "kode": "\\ud83d\\ude12"
+  },
+  {
+    "emo": "😞",
+    "ket": "disappointed",
+    "kode": "\\ud83d\\ude1e"
+  },
+  {
+    "emo": "😔",
+    "ket": "pensive",
+    "kode": "\\ud83d\\ude14"
+  },
+  {
+    "emo": "😟",
+    "ket": "worried",
+    "kode": "\\ud83d\\ude1f"
+  },
+  {
+    "emo": "😕",
+    "ket": "confused",
+    "kode": "\\ud83d\\ude15"
+  },
+  {
+    "emo": "🙁",
+    "ket": "slightly_frowning_face",
+    "kode": "\\ud83d\\ude41"
+  },
+  {
+    "emo": "☹️",
+    "ket": "frowning_face",
+    "kode": "\\u2639\\ufe0f"
+  },
+  {
+    "emo": "😣",
+    "ket": "persevere",
+    "kode": "\\ud83d\\ude23"
+  },
+  {
+    "emo": "😖",
+    "ket": "confounded",
+    "kode": "\\ud83d\\ude16"
+  },
+  {
+    "emo": "😫",
+    "ket": "tired_face",
+    "kode": "\\ud83d\\ude2b"
+  },
+  {
+    "emo": "😩",
+    "ket": "weary",
+    "kode": "\\ud83d\\ude29"
+  },
+  {
+    "emo": "😤",
+    "ket": "triumph",
+    "kode": "\\ud83d\\ude24"
+  },
+  {
+    "emo": "😠",
+    "ket": "angry",
+    "kode": "\\ud83d\\ude20"
+  },
+  {
+    "emo": "😡",
+    "ket": "rage; pout",
+    "kode": "\\ud83d\\ude21"
+  },
+  {
+    "emo": "😶",
+    "ket": "no_mouth",
+    "kode": "\\ud83d\\ude36"
+  },
+  {
+    "emo": "😐",
+    "ket": "neutral_face",
+    "kode": "\\ud83d\\ude10"
+  },
+  {
+    "emo": "😑",
+    "ket": "expressionless",
+    "kode": "\\ud83d\\ude11"
+  },
+  {
+    "emo": "😯",
+    "ket": "hushed",
+    "kode": "\\ud83d\\ude2f"
+  },
+  {
+    "emo": "😦",
+    "ket": "frowning",
+    "kode": "\\ud83d\\ude26"
+  },
+  {
+    "emo": "😧",
+    "ket": "anguished",
+    "kode": "\\ud83d\\ude27"
+  },
+  {
+    "emo": "😮",
+    "ket": "open_mouth",
+    "kode": "\\ud83d\\ude2e"
+  },
+  {
+    "emo": "😲",
+    "ket": "astonished",
+    "kode": "\\ud83d\\ude32"
+  },
+  {
+    "emo": "😵",
+    "ket": "dizzy_face",
+    "kode": "\\ud83d\\ude35"
+  },
+  {
+    "emo": "😳",
+    "ket": "flushed",
+    "kode": "\\ud83d\\ude33"
+  },
+  {
+    "emo": "😱",
+    "ket": "scream",
+    "kode": "\\ud83d\\ude31"
+  },
+  {
+    "emo": "😨",
+    "ket": "fearful",
+    "kode": "\\ud83d\\ude28"
+  },
+  {
+    "emo": "😰",
+    "ket": "cold_sweat",
+    "kode": "\\ud83d\\ude30"
+  },
+  {
+    "emo": "😢",
+    "ket": "cry",
+    "kode": "\\ud83d\\ude22"
+  },
+  {
+    "emo": "😥",
+    "ket": "disappointed_relieved",
+    "kode": "\\ud83d\\ude25"
+  },
+  {
+    "emo": "🤤",
+    "ket": "drooling_face",
+    "kode": "\\ud83e\\udd24"
+  },
+  {
+    "emo": "😭",
+    "ket": "sob",
+    "kode": "\\ud83d\\ude2d"
+  },
+  {
+    "emo": "😓",
+    "ket": "sweat",
+    "kode": "\\ud83d\\ude13"
+  },
+  {
+    "emo": "😪",
+    "ket": "sleepy",
+    "kode": "\\ud83d\\ude2a"
+  },
+  {
+    "emo": "😴",
+    "ket": "sleeping",
+    "kode": "\\ud83d\\ude34"
+  },
+  {
+    "emo": "🙄",
+    "ket": "roll_eyes",
+    "kode": "\\ud83d\\ude44"
+  },
+  {
+    "emo": "🤔",
+    "ket": "thinking",
+    "kode": "\\ud83e\\udd14"
+  },
+  {
+    "emo": "🤥",
+    "ket": "lying_face",
+    "kode": "\\ud83e\\udd25"
+  },
+  {
+    "emo": "😬",
+    "ket": "grimacing",
+    "kode": "\\ud83d\\ude2c"
+  },
+  {
+    "emo": "🤐",
+    "ket": "zipper_mouth_face",
+    "kode": "\\ud83e\\udd10"
+  },
+  {
+    "emo": "🤢",
+    "ket": "nauseated_face",
+    "kode": "\\ud83e\\udd22"
+  },
+  {
+    "emo": "🤧",
+    "ket": "sneezing_face",
+    "kode": "\\ud83e\\udd27"
+  },
+  {
+    "emo": "😷",
+    "ket": "mask",
+    "kode": "\\ud83d\\ude37"
+  },
+  {
+    "emo": "🤒",
+    "ket": "face_with_thermometer",
+    "kode": "\\ud83e\\udd12"
+  },
+  {
+    "emo": "🤕",
+    "ket": "face_with_head_bandage",
+    "kode": "\\ud83e\\udd15"
+  },
+  {
+    "emo": "😈",
+    "ket": "smiling_imp",
+    "kode": "\\ud83d\\ude08"
+  },
+  {
+    "emo": "👿",
+    "ket": "imp",
+    "kode": "\\ud83d\\udc7f"
+  },
+  {
+    "emo": "👹",
+    "ket": "japanese_ogre",
+    "kode": "\\ud83d\\udc79"
+  },
+  {
+    "emo": "👺",
+    "ket": "japanese_goblin",
+    "kode": "\\ud83d\\udc7a"
+  },
+  {
+    "emo": "💩",
+    "ket": "hankey; poop; shit",
+    "kode": "\\ud83d\\udca9"
+  },
+  {
+    "emo": "👻",
+    "ket": "ghost",
+    "kode": "\\ud83d\\udc7b"
+  },
+  {
+    "emo": "💀",
+    "ket": "skull",
+    "kode": "\\ud83d\\udc80"
+  },
+  {
+    "emo": "☠️",
+    "ket": "skull_and_crossbones",
+    "kode": "\\u2620\\ufe0f"
+  },
+  {
+    "emo": "👽",
+    "ket": "alien",
+    "kode": "\\ud83d\\udc7d"
+  },
+  {
+    "emo": "👾",
+    "ket": "space_invader",
+    "kode": "\\ud83d\\udc7e"
+  },
+  {
+    "emo": "🤖",
+    "ket": "robot",
+    "kode": "\\ud83e\\udd16"
+  },
+  {
+    "emo": "🎃",
+    "ket": "jack_o_lantern",
+    "kode": "\\ud83c\\udf83"
+  },
+  {
+    "emo": "😺",
+    "ket": "smiley_cat",
+    "kode": "\\ud83d\\ude3a"
+  },
+  {
+    "emo": "😸",
+    "ket": "smile_cat",
+    "kode": "\\ud83d\\ude38"
+  },
+  {
+    "emo": "😹",
+    "ket": "joy_cat",
+    "kode": "\\ud83d\\ude39"
+  },
+  {
+    "emo": "😻",
+    "ket": "heart_eyes_cat",
+    "kode": "\\ud83d\\ude3b"
+  },
+  {
+    "emo": "😼",
+    "ket": "smirk_cat",
+    "kode": "\\ud83d\\ude3c"
+  },
+  {
+    "emo": "😽",
+    "ket": "kissing_cat",
+    "kode": "\\ud83d\\ude3d"
+  },
+  {
+    "emo": "🙀",
+    "ket": "scream_cat",
+    "kode": "\\ud83d\\ude40"
+  },
+  {
+    "emo": "😿",
+    "ket": "crying_cat_face",
+    "kode": "\\ud83d\\ude3f"
+  },
+  {
+    "emo": "😾",
+    "ket": "pouting_cat",
+    "kode": "\\ud83d\\ude3e"
+  },
+  {
+    "emo": "👐",
+    "ket": "open_hands",
+    "kode": "\\ud83d\\udc50"
+  },
+  {
+    "emo": "🙌",
+    "ket": "raised_hands",
+    "kode": "\\ud83d\\ude4c"
+  },
+  {
+    "emo": "👏",
+    "ket": "clap",
+    "kode": "\\ud83d\\udc4f"
+  },
+  {
+    "emo": "🙏",
+    "ket": "pray",
+    "kode": "\\ud83d\\ude4f"
+  },
+  {
+    "emo": "🤝",
+    "ket": "handshake",
+    "kode": "\\ud83e\\udd1d"
+  },
+  {
+    "emo": "👍",
+    "ket": "+1; thumbsup",
+    "kode": "\\ud83d\\udc4d"
+  },
+  {
+    "emo": "👎",
+    "ket": "-1; thumbsdown",
+    "kode": "\\ud83d\\udc4e"
+  },
+  {
+    "emo": "👊",
+    "ket": "fist_oncoming; facepunch; punch",
+    "kode": "\\ud83d\\udc4a"
+  },
+  {
+    "emo": "✊",
+    "ket": "fist_raised; fist",
+    "kode": "\\u270a"
+  },
+  {
+    "emo": "🤛",
+    "ket": "fist_left",
+    "kode": "\\ud83e\\udd1b"
+  },
+  {
+    "emo": "🤜",
+    "ket": "fist_right",
+    "kode": "\\ud83e\\udd1c"
+  },
+  {
+    "emo": "🤞",
+    "ket": "crossed_fingers",
+    "kode": "\\ud83e\\udd1e"
+  },
+  {
+    "emo": "✌️",
+    "ket": "v",
+    "kode": "\\u270c\\ufe0f"
+  },
+  {
+    "emo": "🤘",
+    "ket": "metal",
+    "kode": "\\ud83e\\udd18"
+  },
+  {
+    "emo": "👌",
+    "ket": "ok_hand",
+    "kode": "\\ud83d\\udc4c"
+  },
+  {
+    "emo": "👈",
+    "ket": "point_left",
+    "kode": "\\ud83d\\udc48"
+  },
+  {
+    "emo": "👉",
+    "ket": "point_right",
+    "kode": "\\ud83d\\udc49"
+  },
+  {
+    "emo": "👆",
+    "ket": "point_up_2",
+    "kode": "\\ud83d\\udc46"
+  },
+  {
+    "emo": "👇",
+    "ket": "point_down",
+    "kode": "\\ud83d\\udc47"
+  },
+  {
+    "emo": "☝️",
+    "ket": "point_up",
+    "kode": "\\u261d\\ufe0f"
+  },
+  {
+    "emo": "✋",
+    "ket": "hand; raised_hand",
+    "kode": "\\u270b"
+  },
+  {
+    "emo": "🤚",
+    "ket": "raised_back_of_hand",
+    "kode": "\\ud83e\\udd1a"
+  },
+  {
+    "emo": "🖐",
+    "ket": "raised_hand_with_fingers_splayed",
+    "kode": "\\ud83d\\udd90"
+  },
+  {
+    "emo": "🖖",
+    "ket": "vulcan_salute",
+    "kode": "\\ud83d\\udd96"
+  },
+  {
+    "emo": "👋",
+    "ket": "wave",
+    "kode": "\\ud83d\\udc4b"
+  },
+  {
+    "emo": "🤙",
+    "ket": "call_me_hand",
+    "kode": "\\ud83e\\udd19"
+  },
+  {
+    "emo": "💪",
+    "ket": "muscle",
+    "kode": "\\ud83d\\udcaa"
+  },
+  {
+    "emo": "🖕",
+    "ket": "middle_finger; fu",
+    "kode": "\\ud83d\\udd95"
+  },
+  {
+    "emo": "✍️",
+    "ket": "writing_hand",
+    "kode": "\\u270d\\ufe0f"
+  },
+  {
+    "emo": "🤳",
+    "ket": "selfie",
+    "kode": "\\ud83e\\udd33"
+  },
+  {
+    "emo": "💅",
+    "ket": "nail_care",
+    "kode": "\\ud83d\\udc85"
+  },
+  {
+    "emo": "💍",
+    "ket": "ring",
+    "kode": "\\ud83d\\udc8d"
+  },
+  {
+    "emo": "💄",
+    "ket": "lipstick",
+    "kode": "\\ud83d\\udc84"
+  },
+  {
+    "emo": "💋",
+    "ket": "kiss",
+    "kode": "\\ud83d\\udc8b"
+  },
+  {
+    "emo": "👄",
+    "ket": "lips",
+    "kode": "\\ud83d\\udc44"
+  },
+  {
+    "emo": "👅",
+    "ket": "tongue",
+    "kode": "\\ud83d\\udc45"
+  },
+  {
+    "emo": "👂",
+    "ket": "ear",
+    "kode": "\\ud83d\\udc42"
+  },
+  {
+    "emo": "👃",
+    "ket": "nose",
+    "kode": "\\ud83d\\udc43"
+  },
+  {
+    "emo": "👣",
+    "ket": "footprints",
+    "kode": "\\ud83d\\udc63"
+  },
+  {
+    "emo": "👁",
+    "ket": "eye",
+    "kode": "\\ud83d\\udc41"
+  },
+  {
+    "emo": "👀",
+    "ket": "eyes",
+    "kode": "\\ud83d\\udc40"
+  },
+  {
+    "emo": "🗣",
+    "ket": "speaking_head",
+    "kode": "\\ud83d\\udde3"
+  },
+  {
+    "emo": "👤",
+    "ket": "bust_in_silhouette",
+    "kode": "\\ud83d\\udc64"
+  },
+  {
+    "emo": "👥",
+    "ket": "busts_in_silhouette",
+    "kode": "\\ud83d\\udc65"
+  },
+  {
+    "emo": "👶",
+    "ket": "baby",
+    "kode": "\\ud83d\\udc76"
+  },
+  {
+    "emo": "👦",
+    "ket": "boy",
+    "kode": "\\ud83d\\udc66"
+  },
+  {
+    "emo": "👧",
+    "ket": "girl",
+    "kode": "\\ud83d\\udc67"
+  },
+  {
+    "emo": "👨",
+    "ket": "man",
+    "kode": "\\ud83d\\udc68"
+  },
+  {
+    "emo": "👩",
+    "ket": "woman",
+    "kode": "\\ud83d\\udc69"
+  },
+  {
+    "emo": "👱‍♀",
+    "ket": "blonde_woman",
+    "kode": "\\ud83d\\udc71\\u200d\\u2640"
+  },
+  {
+    "emo": "👱",
+    "ket": "blonde_man; person_with_blond_hair",
+    "kode": "\\ud83d\\udc71"
+  },
+  {
+    "emo": "👴",
+    "ket": "older_man",
+    "kode": "\\ud83d\\udc74"
+  },
+  {
+    "emo": "👵",
+    "ket": "older_woman",
+    "kode": "\\ud83d\\udc75"
+  },
+  {
+    "emo": "👲",
+    "ket": "man_with_gua_pi_mao",
+    "kode": "\\ud83d\\udc72"
+  },
+  {
+    "emo": "👳‍♀",
+    "ket": "woman_with_turban",
+    "kode": "\\ud83d\\udc73\\u200d\\u2640"
+  },
+  {
+    "emo": "👳",
+    "ket": "man_with_turban",
+    "kode": "\\ud83d\\udc73"
+  },
+  {
+    "emo": "👮‍♀",
+    "ket": "policewoman",
+    "kode": "\\ud83d\\udc6e\\u200d\\u2640"
+  },
+  {
+    "emo": "👮",
+    "ket": "policeman; cop",
+    "kode": "\\ud83d\\udc6e"
+  },
+  {
+    "emo": "👷‍♀",
+    "ket": "construction_worker_woman",
+    "kode": "\\ud83d\\udc77\\u200d\\u2640"
+  },
+  {
+    "emo": "👷",
+    "ket": "construction_worker_man; construction_worker",
+    "kode": "\\ud83d\\udc77"
+  },
+  {
+    "emo": "💂‍♀",
+    "ket": "guardswoman",
+    "kode": "\\ud83d\\udc82\\u200d\\u2640"
+  },
+  {
+    "emo": "💂",
+    "ket": "guardsman",
+    "kode": "\\ud83d\\udc82"
+  },
+  {
+    "emo": "🕵️‍♀️",
+    "ket": "female_detective",
+    "kode": "\\ud83d\\udd75\\ufe0f\\u200d\\u2640\\ufe0f"
+  },
+  {
+    "emo": "🕵",
+    "ket": "male_detective; detective",
+    "kode": "\\ud83d\\udd75"
+  },
+  {
+    "emo": "👩‍⚕",
+    "ket": "woman_health_worker",
+    "kode": "\\ud83d\\udc69\\u200d\\u2695"
+  },
+  {
+    "emo": "👨‍⚕",
+    "ket": "man_health_worker",
+    "kode": "\\ud83d\\udc68\\u200d\\u2695"
+  },
+  {
+    "emo": "👩‍🌾",
+    "ket": "woman_farmer",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udf3e"
+  },
+  {
+    "emo": "👨‍🌾",
+    "ket": "man_farmer",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udf3e"
+  },
+  {
+    "emo": "👩‍🍳",
+    "ket": "woman_cook",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udf73"
+  },
+  {
+    "emo": "👨‍🍳",
+    "ket": "man_cook",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udf73"
+  },
+  {
+    "emo": "👩‍🎓",
+    "ket": "woman_student",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udf93"
+  },
+  {
+    "emo": "👨‍🎓",
+    "ket": "man_student",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udf93"
+  },
+  {
+    "emo": "👩‍🎤",
+    "ket": "woman_singer",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udfa4"
+  },
+  {
+    "emo": "👨‍🎤",
+    "ket": "man_singer",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udfa4"
+  },
+  {
+    "emo": "👩‍🏫",
+    "ket": "woman_teacher",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udfeb"
+  },
+  {
+    "emo": "👨‍🏫",
+    "ket": "man_teacher",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udfeb"
+  },
+  {
+    "emo": "👩‍🏭",
+    "ket": "woman_factory_worker",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udfed"
+  },
+  {
+    "emo": "👨‍🏭",
+    "ket": "man_factory_worker",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udfed"
+  },
+  {
+    "emo": "👩‍💻",
+    "ket": "woman_technologist",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udcbb"
+  },
+  {
+    "emo": "👨‍💻",
+    "ket": "man_technologist",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udcbb"
+  },
+  {
+    "emo": "👩‍💼",
+    "ket": "woman_office_worker",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udcbc"
+  },
+  {
+    "emo": "👨‍💼",
+    "ket": "man_office_worker",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udcbc"
+  },
+  {
+    "emo": "👩‍🔧",
+    "ket": "woman_mechanic",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udd27"
+  },
+  {
+    "emo": "👨‍🔧",
+    "ket": "man_mechanic",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udd27"
+  },
+  {
+    "emo": "👩‍🔬",
+    "ket": "woman_scientist",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udd2c"
+  },
+  {
+    "emo": "👨‍🔬",
+    "ket": "man_scientist",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udd2c"
+  },
+  {
+    "emo": "👩‍🎨",
+    "ket": "woman_artist",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83c\\udfa8"
+  },
+  {
+    "emo": "👨‍🎨",
+    "ket": "man_artist",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83c\\udfa8"
+  },
+  {
+    "emo": "👩‍🚒",
+    "ket": "woman_firefighter",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\ude92"
+  },
+  {
+    "emo": "👨‍🚒",
+    "ket": "man_firefighter",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\ude92"
+  },
+  {
+    "emo": "👩‍✈",
+    "ket": "woman_pilot",
+    "kode": "\\ud83d\\udc69\\u200d\\u2708"
+  },
+  {
+    "emo": "👨‍✈",
+    "ket": "man_pilot",
+    "kode": "\\ud83d\\udc68\\u200d\\u2708"
+  },
+  {
+    "emo": "👩‍🚀",
+    "ket": "woman_astronaut",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\ude80"
+  },
+  {
+    "emo": "👨‍🚀",
+    "ket": "man_astronaut",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\ude80"
+  },
+  {
+    "emo": "👩‍⚖",
+    "ket": "woman_judge",
+    "kode": "\\ud83d\\udc69\\u200d\\u2696"
+  },
+  {
+    "emo": "👨‍⚖",
+    "ket": "man_judge",
+    "kode": "\\ud83d\\udc68\\u200d\\u2696"
+  },
+  {
+    "emo": "🤶",
+    "ket": "mrs_claus",
+    "kode": "\\ud83e\\udd36"
+  },
+  {
+    "emo": "🎅",
+    "ket": "santa",
+    "kode": "\\ud83c\\udf85"
+  },
+  {
+    "emo": "👸",
+    "ket": "princess",
+    "kode": "\\ud83d\\udc78"
+  },
+  {
+    "emo": "🤴",
+    "ket": "prince",
+    "kode": "\\ud83e\\udd34"
+  },
+  {
+    "emo": "👰",
+    "ket": "bride_with_veil",
+    "kode": "\\ud83d\\udc70"
+  },
+  {
+    "emo": "🤵",
+    "ket": "man_in_tuxedo",
+    "kode": "\\ud83e\\udd35"
+  },
+  {
+    "emo": "👼",
+    "ket": "angel",
+    "kode": "\\ud83d\\udc7c"
+  },
+  {
+    "emo": "🤰",
+    "ket": "pregnant_woman",
+    "kode": "\\ud83e\\udd30"
+  },
+  {
+    "emo": "🙇‍♀",
+    "ket": "bowing_woman",
+    "kode": "\\ud83d\\ude47\\u200d\\u2640"
+  },
+  {
+    "emo": "🙇",
+    "ket": "bowing_man; bow",
+    "kode": "\\ud83d\\ude47"
+  },
+  {
+    "emo": "💁",
+    "ket": "tipping_hand_woman; information_desk_person; sassy_woman",
+    "kode": "\\ud83d\\udc81"
+  },
+  {
+    "emo": "💁‍♂",
+    "ket": "tipping_hand_man; sassy_man",
+    "kode": "\\ud83d\\udc81\\u200d\\u2642"
+  },
+  {
+    "emo": "🙅",
+    "ket": "no_good_woman; no_good; ng_woman",
+    "kode": "\\ud83d\\ude45"
+  },
+  {
+    "emo": "🙅‍♂",
+    "ket": "no_good_man; ng_man",
+    "kode": "\\ud83d\\ude45\\u200d\\u2642"
+  },
+  {
+    "emo": "🙆",
+    "ket": "ok_woman",
+    "kode": "\\ud83d\\ude46"
+  },
+  {
+    "emo": "🙆‍♂",
+    "ket": "ok_man",
+    "kode": "\\ud83d\\ude46\\u200d\\u2642"
+  },
+  {
+    "emo": "🙋",
+    "ket": "raising_hand_woman; raising_hand",
+    "kode": "\\ud83d\\ude4b"
+  },
+  {
+    "emo": "🙋‍♂",
+    "ket": "raising_hand_man",
+    "kode": "\\ud83d\\ude4b\\u200d\\u2642"
+  },
+  {
+    "emo": "🤦‍♀",
+    "ket": "woman_facepalming",
+    "kode": "\\ud83e\\udd26\\u200d\\u2640"
+  },
+  {
+    "emo": "🤦‍♂",
+    "ket": "man_facepalming",
+    "kode": "\\ud83e\\udd26\\u200d\\u2642"
+  },
+  {
+    "emo": "🤷‍♀",
+    "ket": "woman_shrugging",
+    "kode": "\\ud83e\\udd37\\u200d\\u2640"
+  },
+  {
+    "emo": "🤷‍♂",
+    "ket": "man_shrugging",
+    "kode": "\\ud83e\\udd37\\u200d\\u2642"
+  },
+  {
+    "emo": "🙎",
+    "ket": "pouting_woman; person_with_pouting_face",
+    "kode": "\\ud83d\\ude4e"
+  },
+  {
+    "emo": "🙎‍♂",
+    "ket": "pouting_man",
+    "kode": "\\ud83d\\ude4e\\u200d\\u2642"
+  },
+  {
+    "emo": "🙍",
+    "ket": "frowning_woman; person_frowning",
+    "kode": "\\ud83d\\ude4d"
+  },
+  {
+    "emo": "🙍‍♂",
+    "ket": "frowning_man",
+    "kode": "\\ud83d\\ude4d\\u200d\\u2642"
+  },
+  {
+    "emo": "💇",
+    "ket": "haircut_woman; haircut",
+    "kode": "\\ud83d\\udc87"
+  },
+  {
+    "emo": "💇‍♂",
+    "ket": "haircut_man",
+    "kode": "\\ud83d\\udc87\\u200d\\u2642"
+  },
+  {
+    "emo": "💆",
+    "ket": "massage_woman; massage",
+    "kode": "\\ud83d\\udc86"
+  },
+  {
+    "emo": "💆‍♂",
+    "ket": "massage_man",
+    "kode": "\\ud83d\\udc86\\u200d\\u2642"
+  },
+  {
+    "emo": "🕴",
+    "ket": "business_suit_levitating",
+    "kode": "\\ud83d\\udd74"
+  },
+  {
+    "emo": "💃",
+    "ket": "dancer",
+    "kode": "\\ud83d\\udc83"
+  },
+  {
+    "emo": "🕺",
+    "ket": "man_dancing",
+    "kode": "\\ud83d\\udd7a"
+  },
+  {
+    "emo": "👯",
+    "ket": "dancing_women; dancers",
+    "kode": "\\ud83d\\udc6f"
+  },
+  {
+    "emo": "👯‍♂",
+    "ket": "dancing_men",
+    "kode": "\\ud83d\\udc6f\\u200d\\u2642"
+  },
+  {
+    "emo": "🚶‍♀",
+    "ket": "walking_woman",
+    "kode": "\\ud83d\\udeb6\\u200d\\u2640"
+  },
+  {
+    "emo": "🚶",
+    "ket": "walking_man; walking",
+    "kode": "\\ud83d\\udeb6"
+  },
+  {
+    "emo": "🏃‍♀",
+    "ket": "running_woman",
+    "kode": "\\ud83c\\udfc3\\u200d\\u2640"
+  },
+  {
+    "emo": "🏃",
+    "ket": "running_man; runner; running",
+    "kode": "\\ud83c\\udfc3"
+  },
+  {
+    "emo": "👫",
+    "ket": "couple",
+    "kode": "\\ud83d\\udc6b"
+  },
+  {
+    "emo": "👭",
+    "ket": "two_women_holding_hands",
+    "kode": "\\ud83d\\udc6d"
+  },
+  {
+    "emo": "👬",
+    "ket": "two_men_holding_hands",
+    "kode": "\\ud83d\\udc6c"
+  },
+  {
+    "emo": "💑",
+    "ket": "couple_with_heart_woman_man; couple_with_heart",
+    "kode": "\\ud83d\\udc91"
+  },
+  {
+    "emo": "👩‍❤️‍👩",
+    "ket": "couple_with_heart_woman_woman",
+    "kode": "\\ud83d\\udc69\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc69"
+  },
+  {
+    "emo": "👨‍❤️‍👨",
+    "ket": "couple_with_heart_man_man",
+    "kode": "\\ud83d\\udc68\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc68"
+  },
+  {
+    "emo": "💏",
+    "ket": "couplekiss_man_woman",
+    "kode": "\\ud83d\\udc8f"
+  },
+  {
+    "emo": "👩‍❤️‍💋‍👩",
+    "ket": "couplekiss_woman_woman",
+    "kode": "\\ud83d\\udc69\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc8b\\u200d\\ud83d\\udc69"
+  },
+  {
+    "emo": "👨‍❤️‍💋‍👨",
+    "ket": "couplekiss_man_man",
+    "kode": "\\ud83d\\udc68\\u200d\\u2764\\ufe0f\\u200d\\ud83d\\udc8b\\u200d\\ud83d\\udc68"
+  },
+  {
+    "emo": "👪",
+    "ket": "family_man_woman_boy; family",
+    "kode": "\\ud83d\\udc6a"
+  },
+  {
+    "emo": "👨‍👩‍👧",
+    "ket": "family_man_woman_girl",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👨‍👩‍👧‍👦",
+    "ket": "family_man_woman_girl_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👩‍👦‍👦",
+    "ket": "family_man_woman_boy_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👩‍👧‍👧",
+    "ket": "family_man_woman_girl_girl",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👩‍👩‍👦",
+    "ket": "family_woman_woman_boy",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👩‍👩‍👧",
+    "ket": "family_woman_woman_girl",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👩‍👩‍👧‍👦",
+    "ket": "family_woman_woman_girl_boy",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👩‍👩‍👦‍👦",
+    "ket": "family_woman_woman_boy_boy",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👩‍👩‍👧‍👧",
+    "ket": "family_woman_woman_girl_girl",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👨‍👨‍👦",
+    "ket": "family_man_man_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👨‍👧",
+    "ket": "family_man_man_girl",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👨‍👨‍👧‍👦",
+    "ket": "family_man_man_girl_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👨‍👦‍👦",
+    "ket": "family_man_man_boy_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👨‍👧‍👧",
+    "ket": "family_man_man_girl_girl",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc68\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👩‍👦",
+    "ket": "family_woman_boy",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👩‍👧",
+    "ket": "family_woman_girl",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👩‍👧‍👦",
+    "ket": "family_woman_girl_boy",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👩‍👦‍👦",
+    "ket": "family_woman_boy_boy",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👩‍👧‍👧",
+    "ket": "family_woman_girl_girl",
+    "kode": "\\ud83d\\udc69\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👨‍👦",
+    "ket": "family_man_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👧",
+    "ket": "family_man_girl",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👨‍👧‍👦",
+    "ket": "family_man_girl_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👦‍👦",
+    "ket": "family_man_boy_boy",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc66\\u200d\\ud83d\\udc66"
+  },
+  {
+    "emo": "👨‍👧‍👧",
+    "ket": "family_man_girl_girl",
+    "kode": "\\ud83d\\udc68\\u200d\\ud83d\\udc67\\u200d\\ud83d\\udc67"
+  },
+  {
+    "emo": "👚",
+    "ket": "womans_clothes",
+    "kode": "\\ud83d\\udc5a"
+  },
+  {
+    "emo": "👕",
+    "ket": "shirt; tshirt",
+    "kode": "\\ud83d\\udc55"
+  },
+  {
+    "emo": "👖",
+    "ket": "jeans",
+    "kode": "\\ud83d\\udc56"
+  },
+  {
+    "emo": "👔",
+    "ket": "necktie",
+    "kode": "\\ud83d\\udc54"
+  },
+  {
+    "emo": "👗",
+    "ket": "dress",
+    "kode": "\\ud83d\\udc57"
+  },
+  {
+    "emo": "👙",
+    "ket": "bikini",
+    "kode": "\\ud83d\\udc59"
+  },
+  {
+    "emo": "👘",
+    "ket": "kimono",
+    "kode": "\\ud83d\\udc58"
+  },
+  {
+    "emo": "👠",
+    "ket": "high_heel",
+    "kode": "\\ud83d\\udc60"
+  },
+  {
+    "emo": "👡",
+    "ket": "sandal",
+    "kode": "\\ud83d\\udc61"
+  },
+  {
+    "emo": "👢",
+    "ket": "boot",
+    "kode": "\\ud83d\\udc62"
+  },
+  {
+    "emo": "👞",
+    "ket": "mans_shoe; shoe",
+    "kode": "\\ud83d\\udc5e"
+  },
+  {
+    "emo": "👟",
+    "ket": "athletic_shoe",
+    "kode": "\\ud83d\\udc5f"
+  },
+  {
+    "emo": "👒",
+    "ket": "womans_hat",
+    "kode": "\\ud83d\\udc52"
+  },
+  {
+    "emo": "🎩",
+    "ket": "tophat",
+    "kode": "\\ud83c\\udfa9"
+  },
+  {
+    "emo": "🎓",
+    "ket": "mortar_board",
+    "kode": "\\ud83c\\udf93"
+  },
+  {
+    "emo": "👑",
+    "ket": "crown",
+    "kode": "\\ud83d\\udc51"
+  },
+  {
+    "emo": "⛑",
+    "ket": "rescue_worker_helmet",
+    "kode": "\\u26d1"
+  },
+  {
+    "emo": "🎒",
+    "ket": "school_satchel",
+    "kode": "\\ud83c\\udf92"
+  },
+  {
+    "emo": "👝",
+    "ket": "pouch",
+    "kode": "\\ud83d\\udc5d"
+  },
+  {
+    "emo": "👛",
+    "ket": "purse",
+    "kode": "\\ud83d\\udc5b"
+  },
+  {
+    "emo": "👜",
+    "ket": "handbag",
+    "kode": "\\ud83d\\udc5c"
+  },
+  {
+    "emo": "💼",
+    "ket": "briefcase",
+    "kode": "\\ud83d\\udcbc"
+  },
+  {
+    "emo": "👓",
+    "ket": "eyeglasses",
+    "kode": "\\ud83d\\udc53"
+  },
+  {
+    "emo": "🕶",
+    "ket": "dark_sunglasses",
+    "kode": "\\ud83d\\udd76"
+  },
+  {
+    "emo": "🌂",
+    "ket": "closed_umbrella",
+    "kode": "\\ud83c\\udf02"
+  },
+  {
+    "emo": "☂️",
+    "ket": "open_umbrella",
+    "kode": "\\u2602\\ufe0f"
+  },
+  {
+    "emo": "🐶",
+    "ket": "dog",
+    "kode": "\\ud83d\\udc36"
+  },
+  {
+    "emo": "🐱",
+    "ket": "cat",
+    "kode": "\\ud83d\\udc31"
+  },
+  {
+    "emo": "🐭",
+    "ket": "mouse",
+    "kode": "\\ud83d\\udc2d"
+  },
+  {
+    "emo": "🐹",
+    "ket": "hamster",
+    "kode": "\\ud83d\\udc39"
+  },
+  {
+    "emo": "🐰",
+    "ket": "rabbit",
+    "kode": "\\ud83d\\udc30"
+  },
+  {
+    "emo": "🦊",
+    "ket": "fox_face",
+    "kode": "\\ud83e\\udd8a"
+  },
+  {
+    "emo": "🐻",
+    "ket": "bear",
+    "kode": "\\ud83d\\udc3b"
+  },
+  {
+    "emo": "🐼",
+    "ket": "panda_face",
+    "kode": "\\ud83d\\udc3c"
+  },
+  {
+    "emo": "🐨",
+    "ket": "koala",
+    "kode": "\\ud83d\\udc28"
+  },
+  {
+    "emo": "🐯",
+    "ket": "tiger",
+    "kode": "\\ud83d\\udc2f"
+  },
+  {
+    "emo": "🦁",
+    "ket": "lion",
+    "kode": "\\ud83e\\udd81"
+  },
+  {
+    "emo": "🐮",
+    "ket": "cow",
+    "kode": "\\ud83d\\udc2e"
+  },
+  {
+    "emo": "🐷",
+    "ket": "pig",
+    "kode": "\\ud83d\\udc37"
+  },
+  {
+    "emo": "🐽",
+    "ket": "pig_nose",
+    "kode": "\\ud83d\\udc3d"
+  },
+  {
+    "emo": "🐸",
+    "ket": "frog",
+    "kode": "\\ud83d\\udc38"
+  },
+  {
+    "emo": "🐵",
+    "ket": "monkey_face",
+    "kode": "\\ud83d\\udc35"
+  },
+  {
+    "emo": "🙈",
+    "ket": "see_no_evil",
+    "kode": "\\ud83d\\ude48"
+  },
+  {
+    "emo": "🙉",
+    "ket": "hear_no_evil",
+    "kode": "\\ud83d\\ude49"
+  },
+  {
+    "emo": "🙊",
+    "ket": "speak_no_evil",
+    "kode": "\\ud83d\\ude4a"
+  },
+  {
+    "emo": "🐒",
+    "ket": "monkey",
+    "kode": "\\ud83d\\udc12"
+  },
+  {
+    "emo": "🐔",
+    "ket": "chicken",
+    "kode": "\\ud83d\\udc14"
+  },
+  {
+    "emo": "🐧",
+    "ket": "penguin",
+    "kode": "\\ud83d\\udc27"
+  },
+  {
+    "emo": "🐦",
+    "ket": "bird",
+    "kode": "\\ud83d\\udc26"
+  },
+  {
+    "emo": "🐤",
+    "ket": "baby_chick",
+    "kode": "\\ud83d\\udc24"
+  },
+  {
+    "emo": "🐣",
+    "ket": "hatching_chick",
+    "kode": "\\ud83d\\udc23"
+  },
+  {
+    "emo": "🐥",
+    "ket": "hatched_chick",
+    "kode": "\\ud83d\\udc25"
+  },
+  {
+    "emo": "🦆",
+    "ket": "duck",
+    "kode": "\\ud83e\\udd86"
+  },
+  {
+    "emo": "🦅",
+    "ket": "eagle",
+    "kode": "\\ud83e\\udd85"
+  },
+  {
+    "emo": "🦉",
+    "ket": "owl",
+    "kode": "\\ud83e\\udd89"
+  },
+  {
+    "emo": "🦇",
+    "ket": "bat",
+    "kode": "\\ud83e\\udd87"
+  },
+  {
+    "emo": "🐺",
+    "ket": "wolf",
+    "kode": "\\ud83d\\udc3a"
+  },
+  {
+    "emo": "🐗",
+    "ket": "boar",
+    "kode": "\\ud83d\\udc17"
+  },
+  {
+    "emo": "🐴",
+    "ket": "horse",
+    "kode": "\\ud83d\\udc34"
+  },
+  {
+    "emo": "🦄",
+    "ket": "unicorn",
+    "kode": "\\ud83e\\udd84"
+  },
+  {
+    "emo": "🐝",
+    "ket": "bee; honeybee",
+    "kode": "\\ud83d\\udc1d"
+  },
+  {
+    "emo": "🐛",
+    "ket": "bug",
+    "kode": "\\ud83d\\udc1b"
+  },
+  {
+    "emo": "🦋",
+    "ket": "butterfly",
+    "kode": "\\ud83e\\udd8b"
+  },
+  {
+    "emo": "🐌",
+    "ket": "snail",
+    "kode": "\\ud83d\\udc0c"
+  },
+  {
+    "emo": "🐚",
+    "ket": "shell",
+    "kode": "\\ud83d\\udc1a"
+  },
+  {
+    "emo": "🐞",
+    "ket": "beetle",
+    "kode": "\\ud83d\\udc1e"
+  },
+  {
+    "emo": "🐜",
+    "ket": "ant",
+    "kode": "\\ud83d\\udc1c"
+  },
+  {
+    "emo": "🕷",
+    "ket": "spider",
+    "kode": "\\ud83d\\udd77"
+  },
+  {
+    "emo": "🕸",
+    "ket": "spider_web",
+    "kode": "\\ud83d\\udd78"
+  },
+  {
+    "emo": "🐢",
+    "ket": "turtle",
+    "kode": "\\ud83d\\udc22"
+  },
+  {
+    "emo": "🐍",
+    "ket": "snake",
+    "kode": "\\ud83d\\udc0d"
+  },
+  {
+    "emo": "🦎",
+    "ket": "lizard",
+    "kode": "\\ud83e\\udd8e"
+  },
+  {
+    "emo": "🦂",
+    "ket": "scorpion",
+    "kode": "\\ud83e\\udd82"
+  },
+  {
+    "emo": "🦀",
+    "ket": "crab",
+    "kode": "\\ud83e\\udd80"
+  },
+  {
+    "emo": "🦑",
+    "ket": "squid",
+    "kode": "\\ud83e\\udd91"
+  },
+  {
+    "emo": "🐙",
+    "ket": "octopus",
+    "kode": "\\ud83d\\udc19"
+  },
+  {
+    "emo": "🦐",
+    "ket": "shrimp",
+    "kode": "\\ud83e\\udd90"
+  },
+  {
+    "emo": "🐠",
+    "ket": "tropical_fish",
+    "kode": "\\ud83d\\udc20"
+  },
+  {
+    "emo": "🐟",
+    "ket": "fish",
+    "kode": "\\ud83d\\udc1f"
+  },
+  {
+    "emo": "🐡",
+    "ket": "blowfish",
+    "kode": "\\ud83d\\udc21"
+  },
+  {
+    "emo": "🐬",
+    "ket": "dolphin; flipper",
+    "kode": "\\ud83d\\udc2c"
+  },
+  {
+    "emo": "🦈",
+    "ket": "shark",
+    "kode": "\\ud83e\\udd88"
+  },
+  {
+    "emo": "🐳",
+    "ket": "whale",
+    "kode": "\\ud83d\\udc33"
+  },
+  {
+    "emo": "🐋",
+    "ket": "whale2",
+    "kode": "\\ud83d\\udc0b"
+  },
+  {
+    "emo": "🐊",
+    "ket": "crocodile",
+    "kode": "\\ud83d\\udc0a"
+  },
+  {
+    "emo": "🐆",
+    "ket": "leopard",
+    "kode": "\\ud83d\\udc06"
+  },
+  {
+    "emo": "🐅",
+    "ket": "tiger2",
+    "kode": "\\ud83d\\udc05"
+  },
+  {
+    "emo": "🐃",
+    "ket": "water_buffalo",
+    "kode": "\\ud83d\\udc03"
+  },
+  {
+    "emo": "🐂",
+    "ket": "ox",
+    "kode": "\\ud83d\\udc02"
+  },
+  {
+    "emo": "🐄",
+    "ket": "cow2",
+    "kode": "\\ud83d\\udc04"
+  },
+  {
+    "emo": "🦌",
+    "ket": "deer",
+    "kode": "\\ud83e\\udd8c"
+  },
+  {
+    "emo": "🐪",
+    "ket": "dromedary_camel",
+    "kode": "\\ud83d\\udc2a"
+  },
+  {
+    "emo": "🐫",
+    "ket": "camel",
+    "kode": "\\ud83d\\udc2b"
+  },
+  {
+    "emo": "🐘",
+    "ket": "elephant",
+    "kode": "\\ud83d\\udc18"
+  },
+  {
+    "emo": "🦏",
+    "ket": "rhinoceros",
+    "kode": "\\ud83e\\udd8f"
+  },
+  {
+    "emo": "🦍",
+    "ket": "gorilla",
+    "kode": "\\ud83e\\udd8d"
+  },
+  {
+    "emo": "🐎",
+    "ket": "racehorse",
+    "kode": "\\ud83d\\udc0e"
+  },
+  {
+    "emo": "🐖",
+    "ket": "pig2",
+    "kode": "\\ud83d\\udc16"
+  },
+  {
+    "emo": "🐐",
+    "ket": "goat",
+    "kode": "\\ud83d\\udc10"
+  },
+  {
+    "emo": "🐏",
+    "ket": "ram",
+    "kode": "\\ud83d\\udc0f"
+  },
+  {
+    "emo": "🐑",
+    "ket": "sheep",
+    "kode": "\\ud83d\\udc11"
+  },
+  {
+    "emo": "🐕",
+    "ket": "dog2",
+    "kode": "\\ud83d\\udc15"
+  },
+  {
+    "emo": "🐩",
+    "ket": "poodle",
+    "kode": "\\ud83d\\udc29"
+  },
+  {
+    "emo": "🐈",
+    "ket": "cat2",
+    "kode": "\\ud83d\\udc08"
+  },
+  {
+    "emo": "🐓",
+    "ket": "rooster",
+    "kode": "\\ud83d\\udc13"
+  },
+  {
+    "emo": "🦃",
+    "ket": "turkey",
+    "kode": "\\ud83e\\udd83"
+  },
+  {
+    "emo": "🕊",
+    "ket": "dove",
+    "kode": "\\ud83d\\udd4a"
+  },
+  {
+    "emo": "🐇",
+    "ket": "rabbit2",
+    "kode": "\\ud83d\\udc07"
+  },
+  {
+    "emo": "🐁",
+    "ket": "mouse2",
+    "kode": "\\ud83d\\udc01"
+  },
+  {
+    "emo": "🐀",
+    "ket": "rat",
+    "kode": "\\ud83d\\udc00"
+  },
+  {
+    "emo": "🐿",
+    "ket": "chipmunk",
+    "kode": "\\ud83d\\udc3f"
+  },
+  {
+    "emo": "🐾",
+    "ket": "feet; paw_prints",
+    "kode": "\\ud83d\\udc3e"
+  },
+  {
+    "emo": "🐉",
+    "ket": "dragon",
+    "kode": "\\ud83d\\udc09"
+  },
+  {
+    "emo": "🐲",
+    "ket": "dragon_face",
+    "kode": "\\ud83d\\udc32"
+  },
+  {
+    "emo": "🌵",
+    "ket": "cactus",
+    "kode": "\\ud83c\\udf35"
+  },
+  {
+    "emo": "🎄",
+    "ket": "christmas_tree",
+    "kode": "\\ud83c\\udf84"
+  },
+  {
+    "emo": "🌲",
+    "ket": "evergreen_tree",
+    "kode": "\\ud83c\\udf32"
+  },
+  {
+    "emo": "🌳",
+    "ket": "deciduous_tree",
+    "kode": "\\ud83c\\udf33"
+  },
+  {
+    "emo": "🌴",
+    "ket": "palm_tree",
+    "kode": "\\ud83c\\udf34"
+  },
+  {
+    "emo": "🌱",
+    "ket": "seedling",
+    "kode": "\\ud83c\\udf31"
+  },
+  {
+    "emo": "🌿",
+    "ket": "herb",
+    "kode": "\\ud83c\\udf3f"
+  },
+  {
+    "emo": "☘️",
+    "ket": "shamrock",
+    "kode": "\\u2618\\ufe0f"
+  },
+  {
+    "emo": "🍀",
+    "ket": "four_leaf_clover",
+    "kode": "\\ud83c\\udf40"
+  },
+  {
+    "emo": "🎍",
+    "ket": "bamboo",
+    "kode": "\\ud83c\\udf8d"
+  },
+  {
+    "emo": "🎋",
+    "ket": "tanabata_tree",
+    "kode": "\\ud83c\\udf8b"
+  },
+  {
+    "emo": "🍃",
+    "ket": "leaves",
+    "kode": "\\ud83c\\udf43"
+  },
+  {
+    "emo": "🍂",
+    "ket": "fallen_leaf",
+    "kode": "\\ud83c\\udf42"
+  },
+  {
+    "emo": "🍁",
+    "ket": "maple_leaf",
+    "kode": "\\ud83c\\udf41"
+  },
+  {
+    "emo": "🍄",
+    "ket": "mushroom",
+    "kode": "\\ud83c\\udf44"
+  },
+  {
+    "emo": "🌾",
+    "ket": "ear_of_rice",
+    "kode": "\\ud83c\\udf3e"
+  },
+  {
+    "emo": "💐",
+    "ket": "bouquet",
+    "kode": "\\ud83d\\udc90"
+  },
+  {
+    "emo": "🌷",
+    "ket": "tulip",
+    "kode": "\\ud83c\\udf37"
+  },
+  {
+    "emo": "🌹",
+    "ket": "rose",
+    "kode": "\\ud83c\\udf39"
+  },
+  {
+    "emo": "🥀",
+    "ket": "wilted_flower",
+    "kode": "\\ud83e\\udd40"
+  },
+  {
+    "emo": "🌻",
+    "ket": "sunflower",
+    "kode": "\\ud83c\\udf3b"
+  },
+  {
+    "emo": "🌼",
+    "ket": "blossom",
+    "kode": "\\ud83c\\udf3c"
+  },
+  {
+    "emo": "🌸",
+    "ket": "cherry_blossom",
+    "kode": "\\ud83c\\udf38"
+  },
+  {
+    "emo": "🌺",
+    "ket": "hibiscus",
+    "kode": "\\ud83c\\udf3a"
+  },
+  {
+    "emo": "🌎",
+    "ket": "earth_americas",
+    "kode": "\\ud83c\\udf0e"
+  },
+  {
+    "emo": "🌍",
+    "ket": "earth_africa",
+    "kode": "\\ud83c\\udf0d"
+  },
+  {
+    "emo": "🌏",
+    "ket": "earth_asia",
+    "kode": "\\ud83c\\udf0f"
+  },
+  {
+    "emo": "🌕",
+    "ket": "full_moon",
+    "kode": "\\ud83c\\udf15"
+  },
+  {
+    "emo": "🌖",
+    "ket": "waning_gibbous_moon",
+    "kode": "\\ud83c\\udf16"
+  },
+  {
+    "emo": "🌗",
+    "ket": "last_quarter_moon",
+    "kode": "\\ud83c\\udf17"
+  },
+  {
+    "emo": "🌘",
+    "ket": "waning_crescent_moon",
+    "kode": "\\ud83c\\udf18"
+  },
+  {
+    "emo": "🌑",
+    "ket": "new_moon",
+    "kode": "\\ud83c\\udf11"
+  },
+  {
+    "emo": "🌒",
+    "ket": "waxing_crescent_moon",
+    "kode": "\\ud83c\\udf12"
+  },
+  {
+    "emo": "🌓",
+    "ket": "first_quarter_moon",
+    "kode": "\\ud83c\\udf13"
+  },
+  {
+    "emo": "🌔",
+    "ket": "moon; waxing_gibbous_moon",
+    "kode": "\\ud83c\\udf14"
+  },
+  {
+    "emo": "🌚",
+    "ket": "new_moon_with_face",
+    "kode": "\\ud83c\\udf1a"
+  },
+  {
+    "emo": "🌝",
+    "ket": "full_moon_with_face",
+    "kode": "\\ud83c\\udf1d"
+  },
+  {
+    "emo": "🌞",
+    "ket": "sun_with_face",
+    "kode": "\\ud83c\\udf1e"
+  },
+  {
+    "emo": "🌛",
+    "ket": "first_quarter_moon_with_face",
+    "kode": "\\ud83c\\udf1b"
+  },
+  {
+    "emo": "🌜",
+    "ket": "last_quarter_moon_with_face",
+    "kode": "\\ud83c\\udf1c"
+  },
+  {
+    "emo": "🌙",
+    "ket": "crescent_moon",
+    "kode": "\\ud83c\\udf19"
+  },
+  {
+    "emo": "💫",
+    "ket": "dizzy",
+    "kode": "\\ud83d\\udcab"
+  },
+  {
+    "emo": "⭐️",
+    "ket": "star",
+    "kode": "\\u2b50\\ufe0f"
+  },
+  {
+    "emo": "🌟",
+    "ket": "star2",
+    "kode": "\\ud83c\\udf1f"
+  },
+  {
+    "emo": "✨",
+    "ket": "sparkles",
+    "kode": "\\u2728"
+  },
+  {
+    "emo": "⚡️",
+    "ket": "zap",
+    "kode": "\\u26a1\\ufe0f"
+  },
+  {
+    "emo": "🔥",
+    "ket": "fire",
+    "kode": "\\ud83d\\udd25"
+  },
+  {
+    "emo": "💥",
+    "ket": "boom; collision",
+    "kode": "\\ud83d\\udca5"
+  },
+  {
+    "emo": "☄",
+    "ket": "comet",
+    "kode": "\\u2604"
+  },
+  {
+    "emo": "☀️",
+    "ket": "sunny",
+    "kode": "\\u2600\\ufe0f"
+  },
+  {
+    "emo": "🌤",
+    "ket": "sun_behind_small_cloud",
+    "kode": "\\ud83c\\udf24"
+  },
+  {
+    "emo": "⛅️",
+    "ket": "partly_sunny",
+    "kode": "\\u26c5\\ufe0f"
+  },
+  {
+    "emo": "🌥",
+    "ket": "sun_behind_large_cloud",
+    "kode": "\\ud83c\\udf25"
+  },
+  {
+    "emo": "🌦",
+    "ket": "sun_behind_rain_cloud",
+    "kode": "\\ud83c\\udf26"
+  },
+  {
+    "emo": "🌈",
+    "ket": "rainbow",
+    "kode": "\\ud83c\\udf08"
+  },
+  {
+    "emo": "☁️",
+    "ket": "cloud",
+    "kode": "\\u2601\\ufe0f"
+  },
+  {
+    "emo": "🌧",
+    "ket": "cloud_with_rain",
+    "kode": "\\ud83c\\udf27"
+  },
+  {
+    "emo": "⛈",
+    "ket": "cloud_with_lightning_and_rain",
+    "kode": "\\u26c8"
+  },
+  {
+    "emo": "🌩",
+    "ket": "cloud_with_lightning",
+    "kode": "\\ud83c\\udf29"
+  },
+  {
+    "emo": "🌨",
+    "ket": "cloud_with_snow",
+    "kode": "\\ud83c\\udf28"
+  },
+  {
+    "emo": "☃️",
+    "ket": "snowman_with_snow",
+    "kode": "\\u2603\\ufe0f"
+  },
+  {
+    "emo": "⛄️",
+    "ket": "snowman",
+    "kode": "\\u26c4\\ufe0f"
+  },
+  {
+    "emo": "❄️",
+    "ket": "snowflake",
+    "kode": "\\u2744\\ufe0f"
+  },
+  {
+    "emo": "🌬",
+    "ket": "wind_face",
+    "kode": "\\ud83c\\udf2c"
+  },
+  {
+    "emo": "💨",
+    "ket": "dash",
+    "kode": "\\ud83d\\udca8"
+  },
+  {
+    "emo": "🌪",
+    "ket": "tornado",
+    "kode": "\\ud83c\\udf2a"
+  },
+  {
+    "emo": "🌫",
+    "ket": "fog",
+    "kode": "\\ud83c\\udf2b"
+  },
+  {
+    "emo": "🌊",
+    "ket": "ocean",
+    "kode": "\\ud83c\\udf0a"
+  },
+  {
+    "emo": "💧",
+    "ket": "droplet",
+    "kode": "\\ud83d\\udca7"
+  },
+  {
+    "emo": "💦",
+    "ket": "sweat_drops",
+    "kode": "\\ud83d\\udca6"
+  },
+  {
+    "emo": "☔️",
+    "ket": "umbrella",
+    "kode": "\\u2614\\ufe0f"
+  },
+  {
+    "emo": "🍏",
+    "ket": "green_apple",
+    "kode": "\\ud83c\\udf4f"
+  },
+  {
+    "emo": "🍎",
+    "ket": "apple",
+    "kode": "\\ud83c\\udf4e"
+  },
+  {
+    "emo": "🍐",
+    "ket": "pear",
+    "kode": "\\ud83c\\udf50"
+  },
+  {
+    "emo": "🍊",
+    "ket": "tangerine; orange; mandarin",
+    "kode": "\\ud83c\\udf4a"
+  },
+  {
+    "emo": "🍋",
+    "ket": "lemon",
+    "kode": "\\ud83c\\udf4b"
+  },
+  {
+    "emo": "🍌",
+    "ket": "banana",
+    "kode": "\\ud83c\\udf4c"
+  },
+  {
+    "emo": "🍉",
+    "ket": "watermelon",
+    "kode": "\\ud83c\\udf49"
+  },
+  {
+    "emo": "🍇",
+    "ket": "grapes",
+    "kode": "\\ud83c\\udf47"
+  },
+  {
+    "emo": "🍓",
+    "ket": "strawberry",
+    "kode": "\\ud83c\\udf53"
+  },
+  {
+    "emo": "🍈",
+    "ket": "melon",
+    "kode": "\\ud83c\\udf48"
+  },
+  {
+    "emo": "🍒",
+    "ket": "cherries",
+    "kode": "\\ud83c\\udf52"
+  },
+  {
+    "emo": "🍑",
+    "ket": "peach",
+    "kode": "\\ud83c\\udf51"
+  },
+  {
+    "emo": "🍍",
+    "ket": "pineapple",
+    "kode": "\\ud83c\\udf4d"
+  },
+  {
+    "emo": "🥝",
+    "ket": "kiwi_fruit",
+    "kode": "\\ud83e\\udd5d"
+  },
+  {
+    "emo": "🥑",
+    "ket": "avocado",
+    "kode": "\\ud83e\\udd51"
+  },
+  {
+    "emo": "🍅",
+    "ket": "tomato",
+    "kode": "\\ud83c\\udf45"
+  },
+  {
+    "emo": "🍆",
+    "ket": "eggplant",
+    "kode": "\\ud83c\\udf46"
+  },
+  {
+    "emo": "🥒",
+    "ket": "cucumber",
+    "kode": "\\ud83e\\udd52"
+  },
+  {
+    "emo": "🥕",
+    "ket": "carrot",
+    "kode": "\\ud83e\\udd55"
+  },
+  {
+    "emo": "🌽",
+    "ket": "corn",
+    "kode": "\\ud83c\\udf3d"
+  },
+  {
+    "emo": "🌶",
+    "ket": "hot_pepper",
+    "kode": "\\ud83c\\udf36"
+  },
+  {
+    "emo": "🥔",
+    "ket": "potato",
+    "kode": "\\ud83e\\udd54"
+  },
+  {
+    "emo": "🍠",
+    "ket": "sweet_potato",
+    "kode": "\\ud83c\\udf60"
+  },
+  {
+    "emo": "🌰",
+    "ket": "chestnut",
+    "kode": "\\ud83c\\udf30"
+  },
+  {
+    "emo": "🥜",
+    "ket": "peanuts",
+    "kode": "\\ud83e\\udd5c"
+  },
+  {
+    "emo": "🍯",
+    "ket": "honey_pot",
+    "kode": "\\ud83c\\udf6f"
+  },
+  {
+    "emo": "🥐",
+    "ket": "croissant",
+    "kode": "\\ud83e\\udd50"
+  },
+  {
+    "emo": "🍞",
+    "ket": "bread",
+    "kode": "\\ud83c\\udf5e"
+  },
+  {
+    "emo": "🥖",
+    "ket": "baguette_bread",
+    "kode": "\\ud83e\\udd56"
+  },
+  {
+    "emo": "🧀",
+    "ket": "cheese",
+    "kode": "\\ud83e\\uddc0"
+  },
+  {
+    "emo": "🥚",
+    "ket": "egg",
+    "kode": "\\ud83e\\udd5a"
+  },
+  {
+    "emo": "🍳",
+    "ket": "fried_egg",
+    "kode": "\\ud83c\\udf73"
+  },
+  {
+    "emo": "🥓",
+    "ket": "bacon",
+    "kode": "\\ud83e\\udd53"
+  },
+  {
+    "emo": "🥞",
+    "ket": "pancakes",
+    "kode": "\\ud83e\\udd5e"
+  },
+  {
+    "emo": "🍤",
+    "ket": "fried_shrimp",
+    "kode": "\\ud83c\\udf64"
+  },
+  {
+    "emo": "🍗",
+    "ket": "poultry_leg",
+    "kode": "\\ud83c\\udf57"
+  },
+  {
+    "emo": "🍖",
+    "ket": "meat_on_bone",
+    "kode": "\\ud83c\\udf56"
+  },
+  {
+    "emo": "🍕",
+    "ket": "pizza",
+    "kode": "\\ud83c\\udf55"
+  },
+  {
+    "emo": "🌭",
+    "ket": "hotdog",
+    "kode": "\\ud83c\\udf2d"
+  },
+  {
+    "emo": "🍔",
+    "ket": "hamburger",
+    "kode": "\\ud83c\\udf54"
+  },
+  {
+    "emo": "🍟",
+    "ket": "fries",
+    "kode": "\\ud83c\\udf5f"
+  },
+  {
+    "emo": "🥙",
+    "ket": "stuffed_flatbread",
+    "kode": "\\ud83e\\udd59"
+  },
+  {
+    "emo": "🌮",
+    "ket": "taco",
+    "kode": "\\ud83c\\udf2e"
+  },
+  {
+    "emo": "🌯",
+    "ket": "burrito",
+    "kode": "\\ud83c\\udf2f"
+  },
+  {
+    "emo": "🥗",
+    "ket": "green_salad",
+    "kode": "\\ud83e\\udd57"
+  },
+  {
+    "emo": "🥘",
+    "ket": "shallow_pan_of_food",
+    "kode": "\\ud83e\\udd58"
+  },
+  {
+    "emo": "🍝",
+    "ket": "spaghetti",
+    "kode": "\\ud83c\\udf5d"
+  },
+  {
+    "emo": "🍜",
+    "ket": "ramen",
+    "kode": "\\ud83c\\udf5c"
+  },
+  {
+    "emo": "🍲",
+    "ket": "stew",
+    "kode": "\\ud83c\\udf72"
+  },
+  {
+    "emo": "🍥",
+    "ket": "fish_cake",
+    "kode": "\\ud83c\\udf65"
+  },
+  {
+    "emo": "🍣",
+    "ket": "sushi",
+    "kode": "\\ud83c\\udf63"
+  },
+  {
+    "emo": "🍱",
+    "ket": "bento",
+    "kode": "\\ud83c\\udf71"
+  },
+  {
+    "emo": "🍛",
+    "ket": "curry",
+    "kode": "\\ud83c\\udf5b"
+  },
+  {
+    "emo": "🍚",
+    "ket": "rice",
+    "kode": "\\ud83c\\udf5a"
+  },
+  {
+    "emo": "🍙",
+    "ket": "rice_ball",
+    "kode": "\\ud83c\\udf59"
+  },
+  {
+    "emo": "🍘",
+    "ket": "rice_cracker",
+    "kode": "\\ud83c\\udf58"
+  },
+  {
+    "emo": "🍢",
+    "ket": "oden",
+    "kode": "\\ud83c\\udf62"
+  },
+  {
+    "emo": "🍡",
+    "ket": "dango",
+    "kode": "\\ud83c\\udf61"
+  },
+  {
+    "emo": "🍧",
+    "ket": "shaved_ice",
+    "kode": "\\ud83c\\udf67"
+  },
+  {
+    "emo": "🍨",
+    "ket": "ice_cream",
+    "kode": "\\ud83c\\udf68"
+  },
+  {
+    "emo": "🍦",
+    "ket": "icecream",
+    "kode": "\\ud83c\\udf66"
+  },
+  {
+    "emo": "🍰",
+    "ket": "cake",
+    "kode": "\\ud83c\\udf70"
+  },
+  {
+    "emo": "🎂",
+    "ket": "birthday",
+    "kode": "\\ud83c\\udf82"
+  },
+  {
+    "emo": "🍮",
+    "ket": "custard",
+    "kode": "\\ud83c\\udf6e"
+  },
+  {
+    "emo": "🍭",
+    "ket": "lollipop",
+    "kode": "\\ud83c\\udf6d"
+  },
+  {
+    "emo": "🍬",
+    "ket": "candy",
+    "kode": "\\ud83c\\udf6c"
+  },
+  {
+    "emo": "🍫",
+    "ket": "chocolate_bar",
+    "kode": "\\ud83c\\udf6b"
+  },
+  {
+    "emo": "🍿",
+    "ket": "popcorn",
+    "kode": "\\ud83c\\udf7f"
+  },
+  {
+    "emo": "🍩",
+    "ket": "doughnut",
+    "kode": "\\ud83c\\udf69"
+  },
+  {
+    "emo": "🍪",
+    "ket": "cookie",
+    "kode": "\\ud83c\\udf6a"
+  },
+  {
+    "emo": "🥛",
+    "ket": "milk_glass",
+    "kode": "\\ud83e\\udd5b"
+  },
+  {
+    "emo": "🍼",
+    "ket": "baby_bottle",
+    "kode": "\\ud83c\\udf7c"
+  },
+  {
+    "emo": "☕️",
+    "ket": "coffee",
+    "kode": "\\u2615\\ufe0f"
+  },
+  {
+    "emo": "🍵",
+    "ket": "tea",
+    "kode": "\\ud83c\\udf75"
+  },
+  {
+    "emo": "🍶",
+    "ket": "sake",
+    "kode": "\\ud83c\\udf76"
+  },
+  {
+    "emo": "🍺",
+    "ket": "beer",
+    "kode": "\\ud83c\\udf7a"
+  },
+  {
+    "emo": "🍻",
+    "ket": "beers",
+    "kode": "\\ud83c\\udf7b"
+  },
+  {
+    "emo": "🥂",
+    "ket": "clinking_glasses",
+    "kode": "\\ud83e\\udd42"
+  },
+  {
+    "emo": "🍷",
+    "ket": "wine_glass",
+    "kode": "\\ud83c\\udf77"
+  },
+  {
+    "emo": "🥃",
+    "ket": "tumbler_glass",
+    "kode": "\\ud83e\\udd43"
+  },
+  {
+    "emo": "🍸",
+    "ket": "cocktail",
+    "kode": "\\ud83c\\udf78"
+  },
+  {
+    "emo": "🍹",
+    "ket": "tropical_drink",
+    "kode": "\\ud83c\\udf79"
+  },
+  {
+    "emo": "🍾",
+    "ket": "champagne",
+    "kode": "\\ud83c\\udf7e"
+  },
+  {
+    "emo": "🥄",
+    "ket": "spoon",
+    "kode": "\\ud83e\\udd44"
+  },
+  {
+    "emo": "🍴",
+    "ket": "fork_and_knife",
+    "kode": "\\ud83c\\udf74"
+  },
+  {
+    "emo": "🍽",
+    "ket": "plate_with_cutlery",
+    "kode": "\\ud83c\\udf7d"
+  },
+  {
+    "emo": "⚽️",
+    "ket": "soccer",
+    "kode": "\\u26bd\\ufe0f"
+  },
+  {
+    "emo": "🏀",
+    "ket": "basketball",
+    "kode": "\\ud83c\\udfc0"
+  },
+  {
+    "emo": "🏈",
+    "ket": "football",
+    "kode": "\\ud83c\\udfc8"
+  },
+  {
+    "emo": "⚾️",
+    "ket": "baseball",
+    "kode": "\\u26be\\ufe0f"
+  },
+  {
+    "emo": "🎾",
+    "ket": "tennis",
+    "kode": "\\ud83c\\udfbe"
+  },
+  {
+    "emo": "🏐",
+    "ket": "volleyball",
+    "kode": "\\ud83c\\udfd0"
+  },
+  {
+    "emo": "🏉",
+    "ket": "rugby_football",
+    "kode": "\\ud83c\\udfc9"
+  },
+  {
+    "emo": "🎱",
+    "ket": "8ball",
+    "kode": "\\ud83c\\udfb1"
+  },
+  {
+    "emo": "🏓",
+    "ket": "ping_pong",
+    "kode": "\\ud83c\\udfd3"
+  },
+  {
+    "emo": "🏸",
+    "ket": "badminton",
+    "kode": "\\ud83c\\udff8"
+  },
+  {
+    "emo": "🥅",
+    "ket": "goal_net",
+    "kode": "\\ud83e\\udd45"
+  },
+  {
+    "emo": "🏒",
+    "ket": "ice_hockey",
+    "kode": "\\ud83c\\udfd2"
+  },
+  {
+    "emo": "🏑",
+    "ket": "field_hockey",
+    "kode": "\\ud83c\\udfd1"
+  },
+  {
+    "emo": "🏏",
+    "ket": "cricket",
+    "kode": "\\ud83c\\udfcf"
+  },
+  {
+    "emo": "⛳️",
+    "ket": "golf",
+    "kode": "\\u26f3\\ufe0f"
+  },
+  {
+    "emo": "🏹",
+    "ket": "bow_and_arrow",
+    "kode": "\\ud83c\\udff9"
+  },
+  {
+    "emo": "🎣",
+    "ket": "fishing_pole_and_fish",
+    "kode": "\\ud83c\\udfa3"
+  },
+  {
+    "emo": "🥊",
+    "ket": "boxing_glove",
+    "kode": "\\ud83e\\udd4a"
+  },
+  {
+    "emo": "🥋",
+    "ket": "martial_arts_uniform",
+    "kode": "\\ud83e\\udd4b"
+  },
+  {
+    "emo": "⛸",
+    "ket": "ice_skate",
+    "kode": "\\u26f8"
+  },
+  {
+    "emo": "🎿",
+    "ket": "ski",
+    "kode": "\\ud83c\\udfbf"
+  },
+  {
+    "emo": "⛷",
+    "ket": "skier",
+    "kode": "\\u26f7"
+  },
+  {
+    "emo": "🏂",
+    "ket": "snowboarder",
+    "kode": "\\ud83c\\udfc2"
+  },
+  {
+    "emo": "🏋️‍♀️",
+    "ket": "weight_lifting_woman",
+    "kode": "\\ud83c\\udfcb\\ufe0f\\u200d\\u2640\\ufe0f"
+  },
+  {
+    "emo": "🏋",
+    "ket": "weight_lifting_man",
+    "kode": "\\ud83c\\udfcb"
+  },
+  {
+    "emo": "🤺",
+    "ket": "person_fencing",
+    "kode": "\\ud83e\\udd3a"
+  },
+  {
+    "emo": "🤼‍♀",
+    "ket": "women_wrestling",
+    "kode": "\\ud83e\\udd3c\\u200d\\u2640"
+  },
+  {
+    "emo": "🤼‍♂",
+    "ket": "men_wrestling",
+    "kode": "\\ud83e\\udd3c\\u200d\\u2642"
+  },
+  {
+    "emo": "🤸‍♀",
+    "ket": "woman_cartwheeling",
+    "kode": "\\ud83e\\udd38\\u200d\\u2640"
+  },
+  {
+    "emo": "🤸‍♂",
+    "ket": "man_cartwheeling",
+    "kode": "\\ud83e\\udd38\\u200d\\u2642"
+  },
+  {
+    "emo": "⛹️‍♀️",
+    "ket": "basketball_woman",
+    "kode": "\\u26f9\\ufe0f\\u200d\\u2640\\ufe0f"
+  },
+  {
+    "emo": "⛹",
+    "ket": "basketball_man",
+    "kode": "\\u26f9"
+  },
+  {
+    "emo": "🤾‍♀",
+    "ket": "woman_playing_handball",
+    "kode": "\\ud83e\\udd3e\\u200d\\u2640"
+  },
+  {
+    "emo": "🤾‍♂",
+    "ket": "man_playing_handball",
+    "kode": "\\ud83e\\udd3e\\u200d\\u2642"
+  },
+  {
+    "emo": "🏌️‍♀️",
+    "ket": "golfing_woman",
+    "kode": "\\ud83c\\udfcc\\ufe0f\\u200d\\u2640\\ufe0f"
+  },
+  {
+    "emo": "🏌",
+    "ket": "golfing_man",
+    "kode": "\\ud83c\\udfcc"
+  },
+  {
+    "emo": "🏄‍♀",
+    "ket": "surfing_woman",
+    "kode": "\\ud83c\\udfc4\\u200d\\u2640"
+  },
+  {
+    "emo": "🏄",
+    "ket": "surfing_man; surfer",
+    "kode": "\\ud83c\\udfc4"
+  },
+  {
+    "emo": "🏊‍♀",
+    "ket": "swimming_woman",
+    "kode": "\\ud83c\\udfca\\u200d\\u2640"
+  },
+  {
+    "emo": "🏊",
+    "ket": "swimming_man; swimmer",
+    "kode": "\\ud83c\\udfca"
+  },
+  {
+    "emo": "🤽‍♀",
+    "ket": "woman_playing_water_polo",
+    "kode": "\\ud83e\\udd3d\\u200d\\u2640"
+  },
+  {
+    "emo": "🤽‍♂",
+    "ket": "man_playing_water_polo",
+    "kode": "\\ud83e\\udd3d\\u200d\\u2642"
+  },
+  {
+    "emo": "🚣‍♀",
+    "ket": "rowing_woman",
+    "kode": "\\ud83d\\udea3\\u200d\\u2640"
+  },
+  {
+    "emo": "🚣",
+    "ket": "rowing_man; rowboat",
+    "kode": "\\ud83d\\udea3"
+  },
+  {
+    "emo": "🏇",
+    "ket": "horse_racing",
+    "kode": "\\ud83c\\udfc7"
+  },
+  {
+    "emo": "🚴‍♀",
+    "ket": "biking_woman",
+    "kode": "\\ud83d\\udeb4\\u200d\\u2640"
+  },
+  {
+    "emo": "🚴",
+    "ket": "biking_man; bicyclist",
+    "kode": "\\ud83d\\udeb4"
+  },
+  {
+    "emo": "🚵‍♀",
+    "ket": "mountain_biking_woman",
+    "kode": "\\ud83d\\udeb5\\u200d\\u2640"
+  },
+  {
+    "emo": "🚵",
+    "ket": "mountain_biking_man; mountain_bicyclist",
+    "kode": "\\ud83d\\udeb5"
+  },
+  {
+    "emo": "🎽",
+    "ket": "running_shirt_with_sash",
+    "kode": "\\ud83c\\udfbd"
+  },
+  {
+    "emo": "🏅",
+    "ket": "medal_sports",
+    "kode": "\\ud83c\\udfc5"
+  },
+  {
+    "emo": "🎖",
+    "ket": "medal_military",
+    "kode": "\\ud83c\\udf96"
+  },
+  {
+    "emo": "🥇",
+    "ket": "1st_place_medal",
+    "kode": "\\ud83e\\udd47"
+  },
+  {
+    "emo": "🥈",
+    "ket": "2nd_place_medal",
+    "kode": "\\ud83e\\udd48"
+  },
+  {
+    "emo": "🥉",
+    "ket": "3rd_place_medal",
+    "kode": "\\ud83e\\udd49"
+  },
+  {
+    "emo": "🏆",
+    "ket": "trophy",
+    "kode": "\\ud83c\\udfc6"
+  },
+  {
+    "emo": "🏵",
+    "ket": "rosette",
+    "kode": "\\ud83c\\udff5"
+  },
+  {
+    "emo": "🎗",
+    "ket": "reminder_ribbon",
+    "kode": "\\ud83c\\udf97"
+  },
+  {
+    "emo": "🎫",
+    "ket": "ticket",
+    "kode": "\\ud83c\\udfab"
+  },
+  {
+    "emo": "🎟",
+    "ket": "tickets",
+    "kode": "\\ud83c\\udf9f"
+  },
+  {
+    "emo": "🎪",
+    "ket": "circus_tent",
+    "kode": "\\ud83c\\udfaa"
+  },
+  {
+    "emo": "🤹‍♀",
+    "ket": "woman_juggling",
+    "kode": "\\ud83e\\udd39\\u200d\\u2640"
+  },
+  {
+    "emo": "🤹‍♂",
+    "ket": "man_juggling",
+    "kode": "\\ud83e\\udd39\\u200d\\u2642"
+  },
+  {
+    "emo": "🎭",
+    "ket": "performing_arts",
+    "kode": "\\ud83c\\udfad"
+  },
+  {
+    "emo": "🎨",
+    "ket": "art",
+    "kode": "\\ud83c\\udfa8"
+  },
+  {
+    "emo": "🎬",
+    "ket": "clapper",
+    "kode": "\\ud83c\\udfac"
+  },
+  {
+    "emo": "🎤",
+    "ket": "microphone",
+    "kode": "\\ud83c\\udfa4"
+  },
+  {
+    "emo": "🎧",
+    "ket": "headphones",
+    "kode": "\\ud83c\\udfa7"
+  },
+  {
+    "emo": "🎼",
+    "ket": "musical_score",
+    "kode": "\\ud83c\\udfbc"
+  },
+  {
+    "emo": "🎹",
+    "ket": "musical_keyboard",
+    "kode": "\\ud83c\\udfb9"
+  },
+  {
+    "emo": "🥁",
+    "ket": "drum",
+    "kode": "\\ud83e\\udd41"
+  },
+  {
+    "emo": "🎷",
+    "ket": "saxophone",
+    "kode": "\\ud83c\\udfb7"
+  },
+  {
+    "emo": "🎺",
+    "ket": "trumpet",
+    "kode": "\\ud83c\\udfba"
+  },
+  {
+    "emo": "🎸",
+    "ket": "guitar",
+    "kode": "\\ud83c\\udfb8"
+  },
+  {
+    "emo": "🎻",
+    "ket": "violin",
+    "kode": "\\ud83c\\udfbb"
+  },
+  {
+    "emo": "🎲",
+    "ket": "game_die",
+    "kode": "\\ud83c\\udfb2"
+  },
+  {
+    "emo": "🎯",
+    "ket": "dart",
+    "kode": "\\ud83c\\udfaf"
+  },
+  {
+    "emo": "🎳",
+    "ket": "bowling",
+    "kode": "\\ud83c\\udfb3"
+  },
+  {
+    "emo": "🎮",
+    "ket": "video_game",
+    "kode": "\\ud83c\\udfae"
+  },
+  {
+    "emo": "🎰",
+    "ket": "slot_machine",
+    "kode": "\\ud83c\\udfb0"
+  },
+  {
+    "emo": "🚗",
+    "ket": "car; red_car",
+    "kode": "\\ud83d\\ude97"
+  },
+  {
+    "emo": "🚕",
+    "ket": "taxi",
+    "kode": "\\ud83d\\ude95"
+  },
+  {
+    "emo": "🚙",
+    "ket": "blue_car",
+    "kode": "\\ud83d\\ude99"
+  },
+  {
+    "emo": "🚌",
+    "ket": "bus",
+    "kode": "\\ud83d\\ude8c"
+  },
+  {
+    "emo": "🚎",
+    "ket": "trolleybus",
+    "kode": "\\ud83d\\ude8e"
+  },
+  {
+    "emo": "🏎",
+    "ket": "racing_car",
+    "kode": "\\ud83c\\udfce"
+  },
+  {
+    "emo": "🚓",
+    "ket": "police_car",
+    "kode": "\\ud83d\\ude93"
+  },
+  {
+    "emo": "🚑",
+    "ket": "ambulance",
+    "kode": "\\ud83d\\ude91"
+  },
+  {
+    "emo": "🚒",
+    "ket": "fire_engine",
+    "kode": "\\ud83d\\ude92"
+  },
+  {
+    "emo": "🚐",
+    "ket": "minibus",
+    "kode": "\\ud83d\\ude90"
+  },
+  {
+    "emo": "🚚",
+    "ket": "truck",
+    "kode": "\\ud83d\\ude9a"
+  },
+  {
+    "emo": "🚛",
+    "ket": "articulated_lorry",
+    "kode": "\\ud83d\\ude9b"
+  },
+  {
+    "emo": "🚜",
+    "ket": "tractor",
+    "kode": "\\ud83d\\ude9c"
+  },
+  {
+    "emo": "🛴",
+    "ket": "kick_scooter",
+    "kode": "\\ud83d\\udef4"
+  },
+  {
+    "emo": "🚲",
+    "ket": "bike",
+    "kode": "\\ud83d\\udeb2"
+  },
+  {
+    "emo": "🛵",
+    "ket": "motor_scooter",
+    "kode": "\\ud83d\\udef5"
+  },
+  {
+    "emo": "🏍",
+    "ket": "motorcycle",
+    "kode": "\\ud83c\\udfcd"
+  },
+  {
+    "emo": "🚨",
+    "ket": "rotating_light",
+    "kode": "\\ud83d\\udea8"
+  },
+  {
+    "emo": "🚔",
+    "ket": "oncoming_police_car",
+    "kode": "\\ud83d\\ude94"
+  },
+  {
+    "emo": "🚍",
+    "ket": "oncoming_bus",
+    "kode": "\\ud83d\\ude8d"
+  },
+  {
+    "emo": "🚘",
+    "ket": "oncoming_automobile",
+    "kode": "\\ud83d\\ude98"
+  },
+  {
+    "emo": "🚖",
+    "ket": "oncoming_taxi",
+    "kode": "\\ud83d\\ude96"
+  },
+  {
+    "emo": "🚡",
+    "ket": "aerial_tramway",
+    "kode": "\\ud83d\\udea1"
+  },
+  {
+    "emo": "🚠",
+    "ket": "mountain_cableway",
+    "kode": "\\ud83d\\udea0"
+  },
+  {
+    "emo": "🚟",
+    "ket": "suspension_railway",
+    "kode": "\\ud83d\\ude9f"
+  },
+  {
+    "emo": "🚃",
+    "ket": "railway_car",
+    "kode": "\\ud83d\\ude83"
+  },
+  {
+    "emo": "🚋",
+    "ket": "train",
+    "kode": "\\ud83d\\ude8b"
+  },
+  {
+    "emo": "🚞",
+    "ket": "mountain_railway",
+    "kode": "\\ud83d\\ude9e"
+  },
+  {
+    "emo": "🚝",
+    "ket": "monorail",
+    "kode": "\\ud83d\\ude9d"
+  },
+  {
+    "emo": "🚄",
+    "ket": "bullettrain_side",
+    "kode": "\\ud83d\\ude84"
+  },
+  {
+    "emo": "🚅",
+    "ket": "bullettrain_front",
+    "kode": "\\ud83d\\ude85"
+  },
+  {
+    "emo": "🚈",
+    "ket": "light_rail",
+    "kode": "\\ud83d\\ude88"
+  },
+  {
+    "emo": "🚂",
+    "ket": "steam_locomotive",
+    "kode": "\\ud83d\\ude82"
+  },
+  {
+    "emo": "🚆",
+    "ket": "train2",
+    "kode": "\\ud83d\\ude86"
+  },
+  {
+    "emo": "🚇",
+    "ket": "metro",
+    "kode": "\\ud83d\\ude87"
+  },
+  {
+    "emo": "🚊",
+    "ket": "tram",
+    "kode": "\\ud83d\\ude8a"
+  },
+  {
+    "emo": "🚉",
+    "ket": "station",
+    "kode": "\\ud83d\\ude89"
+  },
+  {
+    "emo": "🚁",
+    "ket": "helicopter",
+    "kode": "\\ud83d\\ude81"
+  },
+  {
+    "emo": "🛩",
+    "ket": "small_airplane",
+    "kode": "\\ud83d\\udee9"
+  },
+  {
+    "emo": "✈️",
+    "ket": "airplane",
+    "kode": "\\u2708\\ufe0f"
+  },
+  {
+    "emo": "🛫",
+    "ket": "flight_departure",
+    "kode": "\\ud83d\\udeeb"
+  },
+  {
+    "emo": "🛬",
+    "ket": "flight_arrival",
+    "kode": "\\ud83d\\udeec"
+  },
+  {
+    "emo": "🚀",
+    "ket": "rocket",
+    "kode": "\\ud83d\\ude80"
+  },
+  {
+    "emo": "🛰",
+    "ket": "artificial_satellite",
+    "kode": "\\ud83d\\udef0"
+  },
+  {
+    "emo": "💺",
+    "ket": "seat",
+    "kode": "\\ud83d\\udcba"
+  },
+  {
+    "emo": "🛶",
+    "ket": "canoe",
+    "kode": "\\ud83d\\udef6"
+  },
+  {
+    "emo": "⛵️",
+    "ket": "boat; sailboat",
+    "kode": "\\u26f5\\ufe0f"
+  },
+  {
+    "emo": "🛥",
+    "ket": "motor_boat",
+    "kode": "\\ud83d\\udee5"
+  },
+  {
+    "emo": "🚤",
+    "ket": "speedboat",
+    "kode": "\\ud83d\\udea4"
+  },
+  {
+    "emo": "🛳",
+    "ket": "passenger_ship",
+    "kode": "\\ud83d\\udef3"
+  },
+  {
+    "emo": "⛴",
+    "ket": "ferry",
+    "kode": "\\u26f4"
+  },
+  {
+    "emo": "🚢",
+    "ket": "ship",
+    "kode": "\\ud83d\\udea2"
+  },
+  {
+    "emo": "⚓️",
+    "ket": "anchor",
+    "kode": "\\u2693\\ufe0f"
+  },
+  {
+    "emo": "🚧",
+    "ket": "construction",
+    "kode": "\\ud83d\\udea7"
+  },
+  {
+    "emo": "⛽️",
+    "ket": "fuelpump",
+    "kode": "\\u26fd\\ufe0f"
+  },
+  {
+    "emo": "🚏",
+    "ket": "busstop",
+    "kode": "\\ud83d\\ude8f"
+  },
+  {
+    "emo": "🚦",
+    "ket": "vertical_traffic_light",
+    "kode": "\\ud83d\\udea6"
+  },
+  {
+    "emo": "🚥",
+    "ket": "traffic_light",
+    "kode": "\\ud83d\\udea5"
+  },
+  {
+    "emo": "🗺",
+    "ket": "world_map",
+    "kode": "\\ud83d\\uddfa"
+  },
+  {
+    "emo": "🗿",
+    "ket": "moyai",
+    "kode": "\\ud83d\\uddff"
+  },
+  {
+    "emo": "🗽",
+    "ket": "statue_of_liberty",
+    "kode": "\\ud83d\\uddfd"
+  },
+  {
+    "emo": "⛲️",
+    "ket": "fountain",
+    "kode": "\\u26f2\\ufe0f"
+  },
+  {
+    "emo": "🗼",
+    "ket": "tokyo_tower",
+    "kode": "\\ud83d\\uddfc"
+  },
+  {
+    "emo": "🏰",
+    "ket": "european_castle",
+    "kode": "\\ud83c\\udff0"
+  },
+  {
+    "emo": "🏯",
+    "ket": "japanese_castle",
+    "kode": "\\ud83c\\udfef"
+  },
+  {
+    "emo": "🏟",
+    "ket": "stadium",
+    "kode": "\\ud83c\\udfdf"
+  },
+  {
+    "emo": "🎡",
+    "ket": "ferris_wheel",
+    "kode": "\\ud83c\\udfa1"
+  },
+  {
+    "emo": "🎢",
+    "ket": "roller_coaster",
+    "kode": "\\ud83c\\udfa2"
+  },
+  {
+    "emo": "🎠",
+    "ket": "carousel_horse",
+    "kode": "\\ud83c\\udfa0"
+  },
+  {
+    "emo": "⛱",
+    "ket": "parasol_on_ground",
+    "kode": "\\u26f1"
+  },
+  {
+    "emo": "🏖",
+    "ket": "beach_umbrella",
+    "kode": "\\ud83c\\udfd6"
+  },
+  {
+    "emo": "🏝",
+    "ket": "desert_island",
+    "kode": "\\ud83c\\udfdd"
+  },
+  {
+    "emo": "⛰",
+    "ket": "mountain",
+    "kode": "\\u26f0"
+  },
+  {
+    "emo": "🏔",
+    "ket": "mountain_snow",
+    "kode": "\\ud83c\\udfd4"
+  },
+  {
+    "emo": "🗻",
+    "ket": "mount_fuji",
+    "kode": "\\ud83d\\uddfb"
+  },
+  {
+    "emo": "🌋",
+    "ket": "volcano",
+    "kode": "\\ud83c\\udf0b"
+  },
+  {
+    "emo": "🏜",
+    "ket": "desert",
+    "kode": "\\ud83c\\udfdc"
+  },
+  {
+    "emo": "🏕",
+    "ket": "camping",
+    "kode": "\\ud83c\\udfd5"
+  },
+  {
+    "emo": "⛺️",
+    "ket": "tent",
+    "kode": "\\u26fa\\ufe0f"
+  },
+  {
+    "emo": "🛤",
+    "ket": "railway_track",
+    "kode": "\\ud83d\\udee4"
+  },
+  {
+    "emo": "🛣",
+    "ket": "motorway",
+    "kode": "\\ud83d\\udee3"
+  },
+  {
+    "emo": "🏗",
+    "ket": "building_construction",
+    "kode": "\\ud83c\\udfd7"
+  },
+  {
+    "emo": "🏭",
+    "ket": "factory",
+    "kode": "\\ud83c\\udfed"
+  },
+  {
+    "emo": "🏠",
+    "ket": "house",
+    "kode": "\\ud83c\\udfe0"
+  },
+  {
+    "emo": "🏡",
+    "ket": "house_with_garden",
+    "kode": "\\ud83c\\udfe1"
+  },
+  {
+    "emo": "🏘",
+    "ket": "houses",
+    "kode": "\\ud83c\\udfd8"
+  },
+  {
+    "emo": "🏚",
+    "ket": "derelict_house",
+    "kode": "\\ud83c\\udfda"
+  },
+  {
+    "emo": "🏢",
+    "ket": "office",
+    "kode": "\\ud83c\\udfe2"
+  },
+  {
+    "emo": "🏬",
+    "ket": "department_store",
+    "kode": "\\ud83c\\udfec"
+  },
+  {
+    "emo": "🏣",
+    "ket": "post_office",
+    "kode": "\\ud83c\\udfe3"
+  },
+  {
+    "emo": "🏤",
+    "ket": "european_post_office",
+    "kode": "\\ud83c\\udfe4"
+  },
+  {
+    "emo": "🏥",
+    "ket": "hospital",
+    "kode": "\\ud83c\\udfe5"
+  },
+  {
+    "emo": "🏦",
+    "ket": "bank",
+    "kode": "\\ud83c\\udfe6"
+  },
+  {
+    "emo": "🏨",
+    "ket": "hotel",
+    "kode": "\\ud83c\\udfe8"
+  },
+  {
+    "emo": "🏪",
+    "ket": "convenience_store",
+    "kode": "\\ud83c\\udfea"
+  },
+  {
+    "emo": "🏫",
+    "ket": "school",
+    "kode": "\\ud83c\\udfeb"
+  },
+  {
+    "emo": "🏩",
+    "ket": "love_hotel",
+    "kode": "\\ud83c\\udfe9"
+  },
+  {
+    "emo": "💒",
+    "ket": "wedding",
+    "kode": "\\ud83d\\udc92"
+  },
+  {
+    "emo": "🏛",
+    "ket": "classical_building",
+    "kode": "\\ud83c\\udfdb"
+  },
+  {
+    "emo": "⛪️",
+    "ket": "church",
+    "kode": "\\u26ea\\ufe0f"
+  },
+  {
+    "emo": "🕌",
+    "ket": "mosque",
+    "kode": "\\ud83d\\udd4c"
+  },
+  {
+    "emo": "🕍",
+    "ket": "synagogue",
+    "kode": "\\ud83d\\udd4d"
+  },
+  {
+    "emo": "🕋",
+    "ket": "kaaba",
+    "kode": "\\ud83d\\udd4b"
+  },
+  {
+    "emo": "⛩",
+    "ket": "shinto_shrine",
+    "kode": "\\u26e9"
+  },
+  {
+    "emo": "🗾",
+    "ket": "japan",
+    "kode": "\\ud83d\\uddfe"
+  },
+  {
+    "emo": "🎑",
+    "ket": "rice_scene",
+    "kode": "\\ud83c\\udf91"
+  },
+  {
+    "emo": "🏞",
+    "ket": "national_park",
+    "kode": "\\ud83c\\udfde"
+  },
+  {
+    "emo": "🌅",
+    "ket": "sunrise",
+    "kode": "\\ud83c\\udf05"
+  },
+  {
+    "emo": "🌄",
+    "ket": "sunrise_over_mountains",
+    "kode": "\\ud83c\\udf04"
+  },
+  {
+    "emo": "🌠",
+    "ket": "stars",
+    "kode": "\\ud83c\\udf20"
+  },
+  {
+    "emo": "🎇",
+    "ket": "sparkler",
+    "kode": "\\ud83c\\udf87"
+  },
+  {
+    "emo": "🎆",
+    "ket": "fireworks",
+    "kode": "\\ud83c\\udf86"
+  },
+  {
+    "emo": "🌇",
+    "ket": "city_sunrise",
+    "kode": "\\ud83c\\udf07"
+  },
+  {
+    "emo": "🌆",
+    "ket": "city_sunset",
+    "kode": "\\ud83c\\udf06"
+  },
+  {
+    "emo": "🏙",
+    "ket": "cityscape",
+    "kode": "\\ud83c\\udfd9"
+  },
+  {
+    "emo": "🌃",
+    "ket": "night_with_stars",
+    "kode": "\\ud83c\\udf03"
+  },
+  {
+    "emo": "🌌",
+    "ket": "milky_way",
+    "kode": "\\ud83c\\udf0c"
+  },
+  {
+    "emo": "🌉",
+    "ket": "bridge_at_night",
+    "kode": "\\ud83c\\udf09"
+  },
+  {
+    "emo": "🌁",
+    "ket": "foggy",
+    "kode": "\\ud83c\\udf01"
+  },
+  {
+    "emo": "⌚️",
+    "ket": "watch",
+    "kode": "\\u231a\\ufe0f"
+  },
+  {
+    "emo": "📱",
+    "ket": "iphone",
+    "kode": "\\ud83d\\udcf1"
+  },
+  {
+    "emo": "📲",
+    "ket": "calling",
+    "kode": "\\ud83d\\udcf2"
+  },
+  {
+    "emo": "💻",
+    "ket": "computer",
+    "kode": "\\ud83d\\udcbb"
+  },
+  {
+    "emo": "⌨️",
+    "ket": "keyboard",
+    "kode": "\\u2328\\ufe0f"
+  },
+  {
+    "emo": "🖥",
+    "ket": "desktop_computer",
+    "kode": "\\ud83d\\udda5"
+  },
+  {
+    "emo": "🖨",
+    "ket": "printer",
+    "kode": "\\ud83d\\udda8"
+  },
+  {
+    "emo": "🖱",
+    "ket": "computer_mouse",
+    "kode": "\\ud83d\\uddb1"
+  },
+  {
+    "emo": "🖲",
+    "ket": "trackball",
+    "kode": "\\ud83d\\uddb2"
+  },
+  {
+    "emo": "🕹",
+    "ket": "joystick",
+    "kode": "\\ud83d\\udd79"
+  },
+  {
+    "emo": "🗜",
+    "ket": "clamp",
+    "kode": "\\ud83d\\udddc"
+  },
+  {
+    "emo": "💽",
+    "ket": "minidisc",
+    "kode": "\\ud83d\\udcbd"
+  },
+  {
+    "emo": "💾",
+    "ket": "floppy_disk",
+    "kode": "\\ud83d\\udcbe"
+  },
+  {
+    "emo": "💿",
+    "ket": "cd",
+    "kode": "\\ud83d\\udcbf"
+  },
+  {
+    "emo": "📀",
+    "ket": "dvd",
+    "kode": "\\ud83d\\udcc0"
+  },
+  {
+    "emo": "📼",
+    "ket": "vhs",
+    "kode": "\\ud83d\\udcfc"
+  },
+  {
+    "emo": "📷",
+    "ket": "camera",
+    "kode": "\\ud83d\\udcf7"
+  },
+  {
+    "emo": "📸",
+    "ket": "camera_flash",
+    "kode": "\\ud83d\\udcf8"
+  },
+  {
+    "emo": "📹",
+    "ket": "video_camera",
+    "kode": "\\ud83d\\udcf9"
+  },
+  {
+    "emo": "🎥",
+    "ket": "movie_camera",
+    "kode": "\\ud83c\\udfa5"
+  },
+  {
+    "emo": "📽",
+    "ket": "film_projector",
+    "kode": "\\ud83d\\udcfd"
+  },
+  {
+    "emo": "🎞",
+    "ket": "film_strip",
+    "kode": "\\ud83c\\udf9e"
+  },
+  {
+    "emo": "📞",
+    "ket": "telephone_receiver",
+    "kode": "\\ud83d\\udcde"
+  },
+  {
+    "emo": "☎️",
+    "ket": "phone; telephone",
+    "kode": "\\u260e\\ufe0f"
+  },
+  {
+    "emo": "📟",
+    "ket": "pager",
+    "kode": "\\ud83d\\udcdf"
+  },
+  {
+    "emo": "📠",
+    "ket": "fax",
+    "kode": "\\ud83d\\udce0"
+  },
+  {
+    "emo": "📺",
+    "ket": "tv",
+    "kode": "\\ud83d\\udcfa"
+  },
+  {
+    "emo": "📻",
+    "ket": "radio",
+    "kode": "\\ud83d\\udcfb"
+  },
+  {
+    "emo": "🎙",
+    "ket": "studio_microphone",
+    "kode": "\\ud83c\\udf99"
+  },
+  {
+    "emo": "🎚",
+    "ket": "level_slider",
+    "kode": "\\ud83c\\udf9a"
+  },
+  {
+    "emo": "🎛",
+    "ket": "control_knobs",
+    "kode": "\\ud83c\\udf9b"
+  },
+  {
+    "emo": "⏱",
+    "ket": "stopwatch",
+    "kode": "\\u23f1"
+  },
+  {
+    "emo": "⏲",
+    "ket": "timer_clock",
+    "kode": "\\u23f2"
+  },
+  {
+    "emo": "⏰",
+    "ket": "alarm_clock",
+    "kode": "\\u23f0"
+  },
+  {
+    "emo": "🕰",
+    "ket": "mantelpiece_clock",
+    "kode": "\\ud83d\\udd70"
+  },
+  {
+    "emo": "⌛️",
+    "ket": "hourglass",
+    "kode": "\\u231b\\ufe0f"
+  },
+  {
+    "emo": "⏳",
+    "ket": "hourglass_flowing_sand",
+    "kode": "\\u23f3"
+  },
+  {
+    "emo": "📡",
+    "ket": "satellite",
+    "kode": "\\ud83d\\udce1"
+  },
+  {
+    "emo": "🔋",
+    "ket": "battery",
+    "kode": "\\ud83d\\udd0b"
+  },
+  {
+    "emo": "🔌",
+    "ket": "electric_plug",
+    "kode": "\\ud83d\\udd0c"
+  },
+  {
+    "emo": "💡",
+    "ket": "bulb",
+    "kode": "\\ud83d\\udca1"
+  },
+  {
+    "emo": "🔦",
+    "ket": "flashlight",
+    "kode": "\\ud83d\\udd26"
+  },
+  {
+    "emo": "🕯",
+    "ket": "candle",
+    "kode": "\\ud83d\\udd6f"
+  },
+  {
+    "emo": "🗑",
+    "ket": "wastebasket",
+    "kode": "\\ud83d\\uddd1"
+  },
+  {
+    "emo": "🛢",
+    "ket": "oil_drum",
+    "kode": "\\ud83d\\udee2"
+  },
+  {
+    "emo": "💸",
+    "ket": "money_with_wings",
+    "kode": "\\ud83d\\udcb8"
+  },
+  {
+    "emo": "💵",
+    "ket": "dollar",
+    "kode": "\\ud83d\\udcb5"
+  },
+  {
+    "emo": "💴",
+    "ket": "yen",
+    "kode": "\\ud83d\\udcb4"
+  },
+  {
+    "emo": "💶",
+    "ket": "euro",
+    "kode": "\\ud83d\\udcb6"
+  },
+  {
+    "emo": "💷",
+    "ket": "pound",
+    "kode": "\\ud83d\\udcb7"
+  },
+  {
+    "emo": "💰",
+    "ket": "moneybag",
+    "kode": "\\ud83d\\udcb0"
+  },
+  {
+    "emo": "💳",
+    "ket": "credit_card",
+    "kode": "\\ud83d\\udcb3"
+  },
+  {
+    "emo": "💎",
+    "ket": "gem",
+    "kode": "\\ud83d\\udc8e"
+  },
+  {
+    "emo": "⚖️",
+    "ket": "balance_scale",
+    "kode": "\\u2696\\ufe0f"
+  },
+  {
+    "emo": "🔧",
+    "ket": "wrench",
+    "kode": "\\ud83d\\udd27"
+  },
+  {
+    "emo": "🔨",
+    "ket": "hammer",
+    "kode": "\\ud83d\\udd28"
+  },
+  {
+    "emo": "⚒",
+    "ket": "hammer_and_pick",
+    "kode": "\\u2692"
+  },
+  {
+    "emo": "🛠",
+    "ket": "hammer_and_wrench",
+    "kode": "\\ud83d\\udee0"
+  },
+  {
+    "emo": "⛏",
+    "ket": "pick",
+    "kode": "\\u26cf"
+  },
+  {
+    "emo": "🔩",
+    "ket": "nut_and_bolt",
+    "kode": "\\ud83d\\udd29"
+  },
+  {
+    "emo": "⚙️",
+    "ket": "gear",
+    "kode": "\\u2699\\ufe0f"
+  },
+  {
+    "emo": "⛓",
+    "ket": "chains",
+    "kode": "\\u26d3"
+  },
+  {
+    "emo": "🔫",
+    "ket": "gun",
+    "kode": "\\ud83d\\udd2b"
+  },
+  {
+    "emo": "💣",
+    "ket": "bomb",
+    "kode": "\\ud83d\\udca3"
+  },
+  {
+    "emo": "🔪",
+    "ket": "hocho; knife",
+    "kode": "\\ud83d\\udd2a"
+  },
+  {
+    "emo": "🗡",
+    "ket": "dagger",
+    "kode": "\\ud83d\\udde1"
+  },
+  {
+    "emo": "⚔️",
+    "ket": "crossed_swords",
+    "kode": "\\u2694\\ufe0f"
+  },
+  {
+    "emo": "🛡",
+    "ket": "shield",
+    "kode": "\\ud83d\\udee1"
+  },
+  {
+    "emo": "🚬",
+    "ket": "smoking",
+    "kode": "\\ud83d\\udeac"
+  },
+  {
+    "emo": "⚰️",
+    "ket": "coffin",
+    "kode": "\\u26b0\\ufe0f"
+  },
+  {
+    "emo": "⚱️",
+    "ket": "funeral_urn",
+    "kode": "\\u26b1\\ufe0f"
+  },
+  {
+    "emo": "🏺",
+    "ket": "amphora",
+    "kode": "\\ud83c\\udffa"
+  },
+  {
+    "emo": "🔮",
+    "ket": "crystal_ball",
+    "kode": "\\ud83d\\udd2e"
+  },
+  {
+    "emo": "📿",
+    "ket": "prayer_beads",
+    "kode": "\\ud83d\\udcff"
+  },
+  {
+    "emo": "💈",
+    "ket": "barber",
+    "kode": "\\ud83d\\udc88"
+  },
+  {
+    "emo": "⚗️",
+    "ket": "alembic",
+    "kode": "\\u2697\\ufe0f"
+  },
+  {
+    "emo": "🔭",
+    "ket": "telescope",
+    "kode": "\\ud83d\\udd2d"
+  },
+  {
+    "emo": "🔬",
+    "ket": "microscope",
+    "kode": "\\ud83d\\udd2c"
+  },
+  {
+    "emo": "🕳",
+    "ket": "hole",
+    "kode": "\\ud83d\\udd73"
+  },
+  {
+    "emo": "💊",
+    "ket": "pill",
+    "kode": "\\ud83d\\udc8a"
+  },
+  {
+    "emo": "💉",
+    "ket": "syringe",
+    "kode": "\\ud83d\\udc89"
+  },
+  {
+    "emo": "🌡",
+    "ket": "thermometer",
+    "kode": "\\ud83c\\udf21"
+  },
+  {
+    "emo": "🚽",
+    "ket": "toilet",
+    "kode": "\\ud83d\\udebd"
+  },
+  {
+    "emo": "🚰",
+    "ket": "potable_water",
+    "kode": "\\ud83d\\udeb0"
+  },
+  {
+    "emo": "🚿",
+    "ket": "shower",
+    "kode": "\\ud83d\\udebf"
+  },
+  {
+    "emo": "🛁",
+    "ket": "bathtub",
+    "kode": "\\ud83d\\udec1"
+  },
+  {
+    "emo": "🛀",
+    "ket": "bath",
+    "kode": "\\ud83d\\udec0"
+  },
+  {
+    "emo": "🛎",
+    "ket": "bellhop_bell",
+    "kode": "\\ud83d\\udece"
+  },
+  {
+    "emo": "🔑",
+    "ket": "key",
+    "kode": "\\ud83d\\udd11"
+  },
+  {
+    "emo": "🗝",
+    "ket": "old_key",
+    "kode": "\\ud83d\\udddd"
+  },
+  {
+    "emo": "🚪",
+    "ket": "door",
+    "kode": "\\ud83d\\udeaa"
+  },
+  {
+    "emo": "🛋",
+    "ket": "couch_and_lamp",
+    "kode": "\\ud83d\\udecb"
+  },
+  {
+    "emo": "🛏",
+    "ket": "bed",
+    "kode": "\\ud83d\\udecf"
+  },
+  {
+    "emo": "🛌",
+    "ket": "sleeping_bed",
+    "kode": "\\ud83d\\udecc"
+  },
+  {
+    "emo": "🖼",
+    "ket": "framed_picture",
+    "kode": "\\ud83d\\uddbc"
+  },
+  {
+    "emo": "🛍",
+    "ket": "shopping",
+    "kode": "\\ud83d\\udecd"
+  },
+  {
+    "emo": "🛒",
+    "ket": "shopping_cart",
+    "kode": "\\ud83d\\uded2"
+  },
+  {
+    "emo": "🎁",
+    "ket": "gift",
+    "kode": "\\ud83c\\udf81"
+  },
+  {
+    "emo": "🎈",
+    "ket": "balloon",
+    "kode": "\\ud83c\\udf88"
+  },
+  {
+    "emo": "🎏",
+    "ket": "flags",
+    "kode": "\\ud83c\\udf8f"
+  },
+  {
+    "emo": "🎀",
+    "ket": "ribbon",
+    "kode": "\\ud83c\\udf80"
+  },
+  {
+    "emo": "🎊",
+    "ket": "confetti_ball",
+    "kode": "\\ud83c\\udf8a"
+  },
+  {
+    "emo": "🎉",
+    "ket": "tada",
+    "kode": "\\ud83c\\udf89"
+  },
+  {
+    "emo": "🎎",
+    "ket": "dolls",
+    "kode": "\\ud83c\\udf8e"
+  },
+  {
+    "emo": "🏮",
+    "ket": "izakaya_lantern; lantern",
+    "kode": "\\ud83c\\udfee"
+  },
+  {
+    "emo": "🎐",
+    "ket": "wind_chime",
+    "kode": "\\ud83c\\udf90"
+  },
+  {
+    "emo": "✉️",
+    "ket": "email; envelope",
+    "kode": "\\u2709\\ufe0f"
+  },
+  {
+    "emo": "📩",
+    "ket": "envelope_with_arrow",
+    "kode": "\\ud83d\\udce9"
+  },
+  {
+    "emo": "📨",
+    "ket": "incoming_envelope",
+    "kode": "\\ud83d\\udce8"
+  },
+  {
+    "emo": "📧",
+    "ket": "e-mail",
+    "kode": "\\ud83d\\udce7"
+  },
+  {
+    "emo": "💌",
+    "ket": "love_letter",
+    "kode": "\\ud83d\\udc8c"
+  },
+  {
+    "emo": "📥",
+    "ket": "inbox_tray",
+    "kode": "\\ud83d\\udce5"
+  },
+  {
+    "emo": "📤",
+    "ket": "outbox_tray",
+    "kode": "\\ud83d\\udce4"
+  },
+  {
+    "emo": "📦",
+    "ket": "package",
+    "kode": "\\ud83d\\udce6"
+  },
+  {
+    "emo": "🏷",
+    "ket": "label",
+    "kode": "\\ud83c\\udff7"
+  },
+  {
+    "emo": "📪",
+    "ket": "mailbox_closed",
+    "kode": "\\ud83d\\udcea"
+  },
+  {
+    "emo": "📫",
+    "ket": "mailbox",
+    "kode": "\\ud83d\\udceb"
+  },
+  {
+    "emo": "📬",
+    "ket": "mailbox_with_mail",
+    "kode": "\\ud83d\\udcec"
+  },
+  {
+    "emo": "📭",
+    "ket": "mailbox_with_no_mail",
+    "kode": "\\ud83d\\udced"
+  },
+  {
+    "emo": "📮",
+    "ket": "postbox",
+    "kode": "\\ud83d\\udcee"
+  },
+  {
+    "emo": "📯",
+    "ket": "postal_horn",
+    "kode": "\\ud83d\\udcef"
+  },
+  {
+    "emo": "📜",
+    "ket": "scroll",
+    "kode": "\\ud83d\\udcdc"
+  },
+  {
+    "emo": "📃",
+    "ket": "page_with_curl",
+    "kode": "\\ud83d\\udcc3"
+  },
+  {
+    "emo": "📄",
+    "ket": "page_facing_up",
+    "kode": "\\ud83d\\udcc4"
+  },
+  {
+    "emo": "📑",
+    "ket": "bookmark_tabs",
+    "kode": "\\ud83d\\udcd1"
+  },
+  {
+    "emo": "📊",
+    "ket": "bar_chart",
+    "kode": "\\ud83d\\udcca"
+  },
+  {
+    "emo": "📈",
+    "ket": "chart_with_upwards_trend",
+    "kode": "\\ud83d\\udcc8"
+  },
+  {
+    "emo": "📉",
+    "ket": "chart_with_downwards_trend",
+    "kode": "\\ud83d\\udcc9"
+  },
+  {
+    "emo": "🗒",
+    "ket": "spiral_notepad",
+    "kode": "\\ud83d\\uddd2"
+  },
+  {
+    "emo": "🗓",
+    "ket": "spiral_calendar",
+    "kode": "\\ud83d\\uddd3"
+  },
+  {
+    "emo": "📆",
+    "ket": "calendar",
+    "kode": "\\ud83d\\udcc6"
+  },
+  {
+    "emo": "📅",
+    "ket": "date",
+    "kode": "\\ud83d\\udcc5"
+  },
+  {
+    "emo": "📇",
+    "ket": "card_index",
+    "kode": "\\ud83d\\udcc7"
+  },
+  {
+    "emo": "🗃",
+    "ket": "card_file_box",
+    "kode": "\\ud83d\\uddc3"
+  },
+  {
+    "emo": "🗳",
+    "ket": "ballot_box",
+    "kode": "\\ud83d\\uddf3"
+  },
+  {
+    "emo": "🗄",
+    "ket": "file_cabinet",
+    "kode": "\\ud83d\\uddc4"
+  },
+  {
+    "emo": "📋",
+    "ket": "clipboard",
+    "kode": "\\ud83d\\udccb"
+  },
+  {
+    "emo": "📁",
+    "ket": "file_folder",
+    "kode": "\\ud83d\\udcc1"
+  },
+  {
+    "emo": "📂",
+    "ket": "open_file_folder",
+    "kode": "\\ud83d\\udcc2"
+  },
+  {
+    "emo": "🗂",
+    "ket": "card_index_dividers",
+    "kode": "\\ud83d\\uddc2"
+  },
+  {
+    "emo": "🗞",
+    "ket": "newspaper_roll",
+    "kode": "\\ud83d\\uddde"
+  },
+  {
+    "emo": "📰",
+    "ket": "newspaper",
+    "kode": "\\ud83d\\udcf0"
+  },
+  {
+    "emo": "📓",
+    "ket": "notebook",
+    "kode": "\\ud83d\\udcd3"
+  },
+  {
+    "emo": "📔",
+    "ket": "notebook_with_decorative_cover",
+    "kode": "\\ud83d\\udcd4"
+  },
+  {
+    "emo": "📒",
+    "ket": "ledger",
+    "kode": "\\ud83d\\udcd2"
+  },
+  {
+    "emo": "📕",
+    "ket": "closed_book",
+    "kode": "\\ud83d\\udcd5"
+  },
+  {
+    "emo": "📗",
+    "ket": "green_book",
+    "kode": "\\ud83d\\udcd7"
+  },
+  {
+    "emo": "📘",
+    "ket": "blue_book",
+    "kode": "\\ud83d\\udcd8"
+  },
+  {
+    "emo": "📙",
+    "ket": "orange_book",
+    "kode": "\\ud83d\\udcd9"
+  },
+  {
+    "emo": "📚",
+    "ket": "books",
+    "kode": "\\ud83d\\udcda"
+  },
+  {
+    "emo": "📖",
+    "ket": "book; open_book",
+    "kode": "\\ud83d\\udcd6"
+  },
+  {
+    "emo": "🔖",
+    "ket": "bookmark",
+    "kode": "\\ud83d\\udd16"
+  },
+  {
+    "emo": "🔗",
+    "ket": "link",
+    "kode": "\\ud83d\\udd17"
+  },
+  {
+    "emo": "📎",
+    "ket": "paperclip",
+    "kode": "\\ud83d\\udcce"
+  },
+  {
+    "emo": "🖇",
+    "ket": "paperclips",
+    "kode": "\\ud83d\\udd87"
+  },
+  {
+    "emo": "📐",
+    "ket": "triangular_ruler",
+    "kode": "\\ud83d\\udcd0"
+  },
+  {
+    "emo": "📏",
+    "ket": "straight_ruler",
+    "kode": "\\ud83d\\udccf"
+  },
+  {
+    "emo": "📌",
+    "ket": "pushpin",
+    "kode": "\\ud83d\\udccc"
+  },
+  {
+    "emo": "📍",
+    "ket": "round_pushpin",
+    "kode": "\\ud83d\\udccd"
+  },
+  {
+    "emo": "✂️",
+    "ket": "scissors",
+    "kode": "\\u2702\\ufe0f"
+  },
+  {
+    "emo": "🖊",
+    "ket": "pen",
+    "kode": "\\ud83d\\udd8a"
+  },
+  {
+    "emo": "🖋",
+    "ket": "fountain_pen",
+    "kode": "\\ud83d\\udd8b"
+  },
+  {
+    "emo": "✒️",
+    "ket": "black_nib",
+    "kode": "\\u2712\\ufe0f"
+  },
+  {
+    "emo": "🖌",
+    "ket": "paintbrush",
+    "kode": "\\ud83d\\udd8c"
+  },
+  {
+    "emo": "🖍",
+    "ket": "crayon",
+    "kode": "\\ud83d\\udd8d"
+  },
+  {
+    "emo": "📝",
+    "ket": "memo; pencil",
+    "kode": "\\ud83d\\udcdd"
+  },
+  {
+    "emo": "✏️",
+    "ket": "pencil2",
+    "kode": "\\u270f\\ufe0f"
+  },
+  {
+    "emo": "🔍",
+    "ket": "mag",
+    "kode": "\\ud83d\\udd0d"
+  },
+  {
+    "emo": "🔎",
+    "ket": "mag_right",
+    "kode": "\\ud83d\\udd0e"
+  },
+  {
+    "emo": "🔏",
+    "ket": "lock_with_ink_pen",
+    "kode": "\\ud83d\\udd0f"
+  },
+  {
+    "emo": "🔐",
+    "ket": "closed_lock_with_key",
+    "kode": "\\ud83d\\udd10"
+  },
+  {
+    "emo": "🔒",
+    "ket": "lock",
+    "kode": "\\ud83d\\udd12"
+  },
+  {
+    "emo": "🔓",
+    "ket": "unlock",
+    "kode": "\\ud83d\\udd13"
+  },
+  {
+    "emo": "❤️",
+    "ket": "heart",
+    "kode": "\\u2764\\ufe0f"
+  },
+  {
+    "emo": "💛",
+    "ket": "yellow_heart",
+    "kode": "\\ud83d\\udc9b"
+  },
+  {
+    "emo": "💚",
+    "ket": "green_heart",
+    "kode": "\\ud83d\\udc9a"
+  },
+  {
+    "emo": "💙",
+    "ket": "blue_heart",
+    "kode": "\\ud83d\\udc99"
+  },
+  {
+    "emo": "💜",
+    "ket": "purple_heart",
+    "kode": "\\ud83d\\udc9c"
+  },
+  {
+    "emo": "🖤",
+    "ket": "black_heart",
+    "kode": "\\ud83d\\udda4"
+  },
+  {
+    "emo": "💔",
+    "ket": "broken_heart",
+    "kode": "\\ud83d\\udc94"
+  },
+  {
+    "emo": "❣️",
+    "ket": "heavy_heart_exclamation",
+    "kode": "\\u2763\\ufe0f"
+  },
+  {
+    "emo": "💕",
+    "ket": "two_hearts",
+    "kode": "\\ud83d\\udc95"
+  },
+  {
+    "emo": "💞",
+    "ket": "revolving_hearts",
+    "kode": "\\ud83d\\udc9e"
+  },
+  {
+    "emo": "💓",
+    "ket": "heartbeat",
+    "kode": "\\ud83d\\udc93"
+  },
+  {
+    "emo": "💗",
+    "ket": "heartpulse",
+    "kode": "\\ud83d\\udc97"
+  },
+  {
+    "emo": "💖",
+    "ket": "sparkling_heart",
+    "kode": "\\ud83d\\udc96"
+  },
+  {
+    "emo": "💘",
+    "ket": "cupid",
+    "kode": "\\ud83d\\udc98"
+  },
+  {
+    "emo": "💝",
+    "ket": "gift_heart",
+    "kode": "\\ud83d\\udc9d"
+  },
+  {
+    "emo": "💟",
+    "ket": "heart_decoration",
+    "kode": "\\ud83d\\udc9f"
+  },
+  {
+    "emo": "☮️",
+    "ket": "peace_symbol",
+    "kode": "\\u262e\\ufe0f"
+  },
+  {
+    "emo": "✝️",
+    "ket": "latin_cross",
+    "kode": "\\u271d\\ufe0f"
+  },
+  {
+    "emo": "☪️",
+    "ket": "star_and_crescent",
+    "kode": "\\u262a\\ufe0f"
+  },
+  {
+    "emo": "🕉",
+    "ket": "om",
+    "kode": "\\ud83d\\udd49"
+  },
+  {
+    "emo": "☸️",
+    "ket": "wheel_of_dharma",
+    "kode": "\\u2638\\ufe0f"
+  },
+  {
+    "emo": "✡️",
+    "ket": "star_of_david",
+    "kode": "\\u2721\\ufe0f"
+  },
+  {
+    "emo": "🔯",
+    "ket": "six_pointed_star",
+    "kode": "\\ud83d\\udd2f"
+  },
+  {
+    "emo": "🕎",
+    "ket": "menorah",
+    "kode": "\\ud83d\\udd4e"
+  },
+  {
+    "emo": "☯️",
+    "ket": "yin_yang",
+    "kode": "\\u262f\\ufe0f"
+  },
+  {
+    "emo": "☦️",
+    "ket": "orthodox_cross",
+    "kode": "\\u2626\\ufe0f"
+  },
+  {
+    "emo": "🛐",
+    "ket": "place_of_worship",
+    "kode": "\\ud83d\\uded0"
+  },
+  {
+    "emo": "⛎",
+    "ket": "ophiuchus",
+    "kode": "\\u26ce"
+  },
+  {
+    "emo": "♈️",
+    "ket": "aries",
+    "kode": "\\u2648\\ufe0f"
+  },
+  {
+    "emo": "♉️",
+    "ket": "taurus",
+    "kode": "\\u2649\\ufe0f"
+  },
+  {
+    "emo": "♊️",
+    "ket": "gemini",
+    "kode": "\\u264a\\ufe0f"
+  },
+  {
+    "emo": "♋️",
+    "ket": "cancer",
+    "kode": "\\u264b\\ufe0f"
+  },
+  {
+    "emo": "♌️",
+    "ket": "leo",
+    "kode": "\\u264c\\ufe0f"
+  },
+  {
+    "emo": "♍️",
+    "ket": "virgo",
+    "kode": "\\u264d\\ufe0f"
+  },
+  {
+    "emo": "♎️",
+    "ket": "libra",
+    "kode": "\\u264e\\ufe0f"
+  },
+  {
+    "emo": "♏️",
+    "ket": "scorpius",
+    "kode": "\\u264f\\ufe0f"
+  },
+  {
+    "emo": "♐️",
+    "ket": "sagittarius",
+    "kode": "\\u2650\\ufe0f"
+  },
+  {
+    "emo": "♑️",
+    "ket": "capricorn",
+    "kode": "\\u2651\\ufe0f"
+  },
+  {
+    "emo": "♒️",
+    "ket": "aquarius",
+    "kode": "\\u2652\\ufe0f"
+  },
+  {
+    "emo": "♓️",
+    "ket": "pisces",
+    "kode": "\\u2653\\ufe0f"
+  },
+  {
+    "emo": "🆔",
+    "ket": "id",
+    "kode": "\\ud83c\\udd94"
+  },
+  {
+    "emo": "⚛️",
+    "ket": "atom_symbol",
+    "kode": "\\u269b\\ufe0f"
+  },
+  {
+    "emo": "🉑",
+    "ket": "accept",
+    "kode": "\\ud83c\\ude51"
+  },
+  {
+    "emo": "☢️",
+    "ket": "radioactive",
+    "kode": "\\u2622\\ufe0f"
+  },
+  {
+    "emo": "☣️",
+    "ket": "biohazard",
+    "kode": "\\u2623\\ufe0f"
+  },
+  {
+    "emo": "📴",
+    "ket": "mobile_phone_off",
+    "kode": "\\ud83d\\udcf4"
+  },
+  {
+    "emo": "📳",
+    "ket": "vibration_mode",
+    "kode": "\\ud83d\\udcf3"
+  },
+  {
+    "emo": "🈶",
+    "ket": "u6709",
+    "kode": "\\ud83c\\ude36"
+  },
+  {
+    "emo": "🈚️",
+    "ket": "u7121",
+    "kode": "\\ud83c\\ude1a\\ufe0f"
+  },
+  {
+    "emo": "🈸",
+    "ket": "u7533",
+    "kode": "\\ud83c\\ude38"
+  },
+  {
+    "emo": "🈺",
+    "ket": "u55b6",
+    "kode": "\\ud83c\\ude3a"
+  },
+  {
+    "emo": "🈷️",
+    "ket": "u6708",
+    "kode": "\\ud83c\\ude37\\ufe0f"
+  },
+  {
+    "emo": "✴️",
+    "ket": "eight_pointed_black_star",
+    "kode": "\\u2734\\ufe0f"
+  },
+  {
+    "emo": "🆚",
+    "ket": "vs",
+    "kode": "\\ud83c\\udd9a"
+  },
+  {
+    "emo": "💮",
+    "ket": "white_flower",
+    "kode": "\\ud83d\\udcae"
+  },
+  {
+    "emo": "🉐",
+    "ket": "ideograph_advantage",
+    "kode": "\\ud83c\\ude50"
+  },
+  {
+    "emo": "㊙️",
+    "ket": "secret",
+    "kode": "\\u3299\\ufe0f"
+  },
+  {
+    "emo": "㊗️",
+    "ket": "congratulations",
+    "kode": "\\u3297\\ufe0f"
+  },
+  {
+    "emo": "🈴",
+    "ket": "u5408",
+    "kode": "\\ud83c\\ude34"
+  },
+  {
+    "emo": "🈵",
+    "ket": "u6e80",
+    "kode": "\\ud83c\\ude35"
+  },
+  {
+    "emo": "🈹",
+    "ket": "u5272",
+    "kode": "\\ud83c\\ude39"
+  },
+  {
+    "emo": "🈲",
+    "ket": "u7981",
+    "kode": "\\ud83c\\ude32"
+  },
+  {
+    "emo": "🅰️",
+    "ket": "a",
+    "kode": "\\ud83c\\udd70\\ufe0f"
+  },
+  {
+    "emo": "🅱️",
+    "ket": "b",
+    "kode": "\\ud83c\\udd71\\ufe0f"
+  },
+  {
+    "emo": "🆎",
+    "ket": "ab",
+    "kode": "\\ud83c\\udd8e"
+  },
+  {
+    "emo": "🆑",
+    "ket": "cl",
+    "kode": "\\ud83c\\udd91"
+  },
+  {
+    "emo": "🅾️",
+    "ket": "o2",
+    "kode": "\\ud83c\\udd7e\\ufe0f"
+  },
+  {
+    "emo": "🆘",
+    "ket": "sos",
+    "kode": "\\ud83c\\udd98"
+  },
+  {
+    "emo": "❌",
+    "ket": "x",
+    "kode": "\\u274c"
+  },
+  {
+    "emo": "⭕️",
+    "ket": "o",
+    "kode": "\\u2b55\\ufe0f"
+  },
+  {
+    "emo": "🛑",
+    "ket": "stop_sign",
+    "kode": "\\ud83d\\uded1"
+  },
+  {
+    "emo": "⛔️",
+    "ket": "no_entry",
+    "kode": "\\u26d4\\ufe0f"
+  },
+  {
+    "emo": "📛",
+    "ket": "name_badge",
+    "kode": "\\ud83d\\udcdb"
+  },
+  {
+    "emo": "🚫",
+    "ket": "no_entry_sign",
+    "kode": "\\ud83d\\udeab"
+  },
+  {
+    "emo": "💯",
+    "ket": 100,
+    "kode": "\\ud83d\\udcaf"
+  },
+  {
+    "emo": "💢",
+    "ket": "anger",
+    "kode": "\\ud83d\\udca2"
+  },
+  {
+    "emo": "♨️",
+    "ket": "hotsprings",
+    "kode": "\\u2668\\ufe0f"
+  },
+  {
+    "emo": "🚷",
+    "ket": "no_pedestrians",
+    "kode": "\\ud83d\\udeb7"
+  },
+  {
+    "emo": "🚯",
+    "ket": "do_not_litter",
+    "kode": "\\ud83d\\udeaf"
+  },
+  {
+    "emo": "🚳",
+    "ket": "no_bicycles",
+    "kode": "\\ud83d\\udeb3"
+  },
+  {
+    "emo": "🚱",
+    "ket": "non-potable_water",
+    "kode": "\\ud83d\\udeb1"
+  },
+  {
+    "emo": "🔞",
+    "ket": "underage",
+    "kode": "\\ud83d\\udd1e"
+  },
+  {
+    "emo": "📵",
+    "ket": "no_mobile_phones",
+    "kode": "\\ud83d\\udcf5"
+  },
+  {
+    "emo": "🚭",
+    "ket": "no_smoking",
+    "kode": "\\ud83d\\udead"
+  },
+  {
+    "emo": "❗️",
+    "ket": "exclamation; heavy_exclamation_mark",
+    "kode": "\\u2757\\ufe0f"
+  },
+  {
+    "emo": "❕",
+    "ket": "grey_exclamation",
+    "kode": "\\u2755"
+  },
+  {
+    "emo": "❓",
+    "ket": "question",
+    "kode": "\\u2753"
+  },
+  {
+    "emo": "❔",
+    "ket": "grey_question",
+    "kode": "\\u2754"
+  },
+  {
+    "emo": "‼️",
+    "ket": "bangbang",
+    "kode": "\\u203c\\ufe0f"
+  },
+  {
+    "emo": "⁉️",
+    "ket": "interrobang",
+    "kode": "\\u2049\\ufe0f"
+  },
+  {
+    "emo": "🔅",
+    "ket": "low_brightness",
+    "kode": "\\ud83d\\udd05"
+  },
+  {
+    "emo": "🔆",
+    "ket": "high_brightness",
+    "kode": "\\ud83d\\udd06"
+  },
+  {
+    "emo": "〽️",
+    "ket": "part_alternation_mark",
+    "kode": "\\u303d\\ufe0f"
+  },
+  {
+    "emo": "⚠️",
+    "ket": "warning",
+    "kode": "\\u26a0\\ufe0f"
+  },
+  {
+    "emo": "🚸",
+    "ket": "children_crossing",
+    "kode": "\\ud83d\\udeb8"
+  },
+  {
+    "emo": "🔱",
+    "ket": "trident",
+    "kode": "\\ud83d\\udd31"
+  },
+  {
+    "emo": "⚜️",
+    "ket": "fleur_de_lis",
+    "kode": "\\u269c\\ufe0f"
+  },
+  {
+    "emo": "🔰",
+    "ket": "beginner",
+    "kode": "\\ud83d\\udd30"
+  },
+  {
+    "emo": "♻️",
+    "ket": "recycle",
+    "kode": "\\u267b\\ufe0f"
+  },
+  {
+    "emo": "✅",
+    "ket": "white_check_mark",
+    "kode": "\\u2705"
+  },
+  {
+    "emo": "🈯️",
+    "ket": "u6307",
+    "kode": "\\ud83c\\ude2f\\ufe0f"
+  },
+  {
+    "emo": "💹",
+    "ket": "chart",
+    "kode": "\\ud83d\\udcb9"
+  },
+  {
+    "emo": "❇️",
+    "ket": "sparkle",
+    "kode": "\\u2747\\ufe0f"
+  },
+  {
+    "emo": "✳️",
+    "ket": "eight_spoked_asterisk",
+    "kode": "\\u2733\\ufe0f"
+  },
+  {
+    "emo": "❎",
+    "ket": "negative_squared_cross_mark",
+    "kode": "\\u274e"
+  },
+  {
+    "emo": "🌐",
+    "ket": "globe_with_meridians",
+    "kode": "\\ud83c\\udf10"
+  },
+  {
+    "emo": "💠",
+    "ket": "diamond_shape_with_a_dot_inside",
+    "kode": "\\ud83d\\udca0"
+  },
+  {
+    "emo": "Ⓜ️",
+    "ket": "m",
+    "kode": "\\u24c2\\ufe0f"
+  },
+  {
+    "emo": "🌀",
+    "ket": "cyclone",
+    "kode": "\\ud83c\\udf00"
+  },
+  {
+    "emo": "💤",
+    "ket": "zzz",
+    "kode": "\\ud83d\\udca4"
+  },
+  {
+    "emo": "🏧",
+    "ket": "atm",
+    "kode": "\\ud83c\\udfe7"
+  },
+  {
+    "emo": "🚾",
+    "ket": "wc",
+    "kode": "\\ud83d\\udebe"
+  },
+  {
+    "emo": "♿️",
+    "ket": "wheelchair",
+    "kode": "\\u267f\\ufe0f"
+  },
+  {
+    "emo": "🅿️",
+    "ket": "parking",
+    "kode": "\\ud83c\\udd7f\\ufe0f"
+  },
+  {
+    "emo": "🈳",
+    "ket": "u7a7a",
+    "kode": "\\ud83c\\ude33"
+  },
+  {
+    "emo": "🈂️",
+    "ket": "sa",
+    "kode": "\\ud83c\\ude02\\ufe0f"
+  },
+  {
+    "emo": "🛂",
+    "ket": "passport_control",
+    "kode": "\\ud83d\\udec2"
+  },
+  {
+    "emo": "🛃",
+    "ket": "customs",
+    "kode": "\\ud83d\\udec3"
+  },
+  {
+    "emo": "🛄",
+    "ket": "baggage_claim",
+    "kode": "\\ud83d\\udec4"
+  },
+  {
+    "emo": "🛅",
+    "ket": "left_luggage",
+    "kode": "\\ud83d\\udec5"
+  },
+  {
+    "emo": "🚹",
+    "ket": "mens",
+    "kode": "\\ud83d\\udeb9"
+  },
+  {
+    "emo": "🚺",
+    "ket": "womens",
+    "kode": "\\ud83d\\udeba"
+  },
+  {
+    "emo": "🚼",
+    "ket": "baby_symbol",
+    "kode": "\\ud83d\\udebc"
+  },
+  {
+    "emo": "🚻",
+    "ket": "restroom",
+    "kode": "\\ud83d\\udebb"
+  },
+  {
+    "emo": "🚮",
+    "ket": "put_litter_in_its_place",
+    "kode": "\\ud83d\\udeae"
+  },
+  {
+    "emo": "🎦",
+    "ket": "cinema",
+    "kode": "\\ud83c\\udfa6"
+  },
+  {
+    "emo": "📶",
+    "ket": "signal_strength",
+    "kode": "\\ud83d\\udcf6"
+  },
+  {
+    "emo": "🈁",
+    "ket": "koko",
+    "kode": "\\ud83c\\ude01"
+  },
+  {
+    "emo": "🔣",
+    "ket": "symbols",
+    "kode": "\\ud83d\\udd23"
+  },
+  {
+    "emo": "ℹ️",
+    "ket": "information_source",
+    "kode": "\\u2139\\ufe0f"
+  },
+  {
+    "emo": "🔤",
+    "ket": "abc",
+    "kode": "\\ud83d\\udd24"
+  },
+  {
+    "emo": "🔡",
+    "ket": "abcd",
+    "kode": "\\ud83d\\udd21"
+  },
+  {
+    "emo": "🔠",
+    "ket": "capital_abcd",
+    "kode": "\\ud83d\\udd20"
+  },
+  {
+    "emo": "🆖",
+    "ket": "ng",
+    "kode": "\\ud83c\\udd96"
+  },
+  {
+    "emo": "🆗",
+    "ket": "ok",
+    "kode": "\\ud83c\\udd97"
+  },
+  {
+    "emo": "🆙",
+    "ket": "up",
+    "kode": "\\ud83c\\udd99"
+  },
+  {
+    "emo": "🆒",
+    "ket": "cool",
+    "kode": "\\ud83c\\udd92"
+  },
+  {
+    "emo": "🆕",
+    "ket": "new",
+    "kode": "\\ud83c\\udd95"
+  },
+  {
+    "emo": "🆓",
+    "ket": "free",
+    "kode": "\\ud83c\\udd93"
+  },
+  {
+    "emo": "0️⃣",
+    "ket": "zero",
+    "kode": "\\u30\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "1️⃣",
+    "ket": "one",
+    "kode": "\\u31\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "2️⃣",
+    "ket": "two",
+    "kode": "\\u32\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "3️⃣",
+    "ket": "three",
+    "kode": "\\u33\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "4️⃣",
+    "ket": "four",
+    "kode": "\\u34\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "5️⃣",
+    "ket": "five",
+    "kode": "\\u35\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "6️⃣",
+    "ket": "six",
+    "kode": "\\u36\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "7️⃣",
+    "ket": "seven",
+    "kode": "\\u37\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "8️⃣",
+    "ket": "eight",
+    "kode": "\\u38\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "9️⃣",
+    "ket": "nine",
+    "kode": "\\u39\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "🔟",
+    "ket": "keycap_ten",
+    "kode": "\\ud83d\\udd1f"
+  },
+  {
+    "emo": "🔢",
+    "ket": 1234,
+    "kode": "\\ud83d\\udd22"
+  },
+  {
+    "emo": "#️⃣",
+    "ket": "hash",
+    "kode": "\\u23\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "*️⃣",
+    "ket": "asterisk",
+    "kode": "\\u2a\\ufe0f\\u20e3"
+  },
+  {
+    "emo": "▶️",
+    "ket": "arrow_forward",
+    "kode": "\\u25b6\\ufe0f"
+  },
+  {
+    "emo": "⏸",
+    "ket": "pause_button",
+    "kode": "\\u23f8"
+  },
+  {
+    "emo": "⏯",
+    "ket": "play_or_pause_button",
+    "kode": "\\u23ef"
+  },
+  {
+    "emo": "⏹",
+    "ket": "stop_button",
+    "kode": "\\u23f9"
+  },
+  {
+    "emo": "⏺",
+    "ket": "record_button",
+    "kode": "\\u23fa"
+  },
+  {
+    "emo": "⏭",
+    "ket": "next_track_button",
+    "kode": "\\u23ed"
+  },
+  {
+    "emo": "⏮",
+    "ket": "previous_track_button",
+    "kode": "\\u23ee"
+  },
+  {
+    "emo": "⏩",
+    "ket": "fast_forward",
+    "kode": "\\u23e9"
+  },
+  {
+    "emo": "⏪",
+    "ket": "rewind",
+    "kode": "\\u23ea"
+  },
+  {
+    "emo": "⏫",
+    "ket": "arrow_double_up",
+    "kode": "\\u23eb"
+  },
+  {
+    "emo": "⏬",
+    "ket": "arrow_double_down",
+    "kode": "\\u23ec"
+  },
+  {
+    "emo": "◀️",
+    "ket": "arrow_backward",
+    "kode": "\\u25c0\\ufe0f"
+  },
+  {
+    "emo": "🔼",
+    "ket": "arrow_up_small",
+    "kode": "\\ud83d\\udd3c"
+  },
+  {
+    "emo": "🔽",
+    "ket": "arrow_down_small",
+    "kode": "\\ud83d\\udd3d"
+  },
+  {
+    "emo": "➡️",
+    "ket": "arrow_right",
+    "kode": "\\u27a1\\ufe0f"
+  },
+  {
+    "emo": "⬅️",
+    "ket": "arrow_left",
+    "kode": "\\u2b05\\ufe0f"
+  },
+  {
+    "emo": "⬆️",
+    "ket": "arrow_up",
+    "kode": "\\u2b06\\ufe0f"
+  },
+  {
+    "emo": "⬇️",
+    "ket": "arrow_down",
+    "kode": "\\u2b07\\ufe0f"
+  },
+  {
+    "emo": "↗️",
+    "ket": "arrow_upper_right",
+    "kode": "\\u2197\\ufe0f"
+  },
+  {
+    "emo": "↘️",
+    "ket": "arrow_lower_right",
+    "kode": "\\u2198\\ufe0f"
+  },
+  {
+    "emo": "↙️",
+    "ket": "arrow_lower_left",
+    "kode": "\\u2199\\ufe0f"
+  },
+  {
+    "emo": "↖️",
+    "ket": "arrow_upper_left",
+    "kode": "\\u2196\\ufe0f"
+  },
+  {
+    "emo": "↕️",
+    "ket": "arrow_up_down",
+    "kode": "\\u2195\\ufe0f"
+  },
+  {
+    "emo": "↔️",
+    "ket": "left_right_arrow",
+    "kode": "\\u2194\\ufe0f"
+  },
+  {
+    "emo": "↪️",
+    "ket": "arrow_right_hook",
+    "kode": "\\u21aa\\ufe0f"
+  },
+  {
+    "emo": "↩️",
+    "ket": "leftwards_arrow_with_hook",
+    "kode": "\\u21a9\\ufe0f"
+  },
+  {
+    "emo": "⤴️",
+    "ket": "arrow_heading_up",
+    "kode": "\\u2934\\ufe0f"
+  },
+  {
+    "emo": "⤵️",
+    "ket": "arrow_heading_down",
+    "kode": "\\u2935\\ufe0f"
+  },
+  {
+    "emo": "🔀",
+    "ket": "twisted_rightwards_arrows",
+    "kode": "\\ud83d\\udd00"
+  },
+  {
+    "emo": "🔁",
+    "ket": "repeat",
+    "kode": "\\ud83d\\udd01"
+  },
+  {
+    "emo": "🔂",
+    "ket": "repeat_one",
+    "kode": "\\ud83d\\udd02"
+  },
+  {
+    "emo": "🔄",
+    "ket": "arrows_counterclockwise",
+    "kode": "\\ud83d\\udd04"
+  },
+  {
+    "emo": "🔃",
+    "ket": "arrows_clockwise",
+    "kode": "\\ud83d\\udd03"
+  },
+  {
+    "emo": "🎵",
+    "ket": "musical_note",
+    "kode": "\\ud83c\\udfb5"
+  },
+  {
+    "emo": "🎶",
+    "ket": "notes",
+    "kode": "\\ud83c\\udfb6"
+  },
+  {
+    "emo": "➕",
+    "ket": "heavy_plus_sign",
+    "kode": "\\u2795"
+  },
+  {
+    "emo": "➖",
+    "ket": "heavy_minus_sign",
+    "kode": "\\u2796"
+  },
+  {
+    "emo": "➗",
+    "ket": "heavy_division_sign",
+    "kode": "\\u2797"
+  },
+  {
+    "emo": "✖️",
+    "ket": "heavy_multiplication_x",
+    "kode": "\\u2716\\ufe0f"
+  },
+  {
+    "emo": "💲",
+    "ket": "heavy_dollar_sign",
+    "kode": "\\ud83d\\udcb2"
+  },
+  {
+    "emo": "💱",
+    "ket": "currency_exchange",
+    "kode": "\\ud83d\\udcb1"
+  },
+  {
+    "emo": "™️",
+    "ket": "tm",
+    "kode": "\\u2122\\ufe0f"
+  },
+  {
+    "emo": "©️",
+    "ket": "copyright",
+    "kode": "\\ua9\\ufe0f"
+  },
+  {
+    "emo": "®️",
+    "ket": "registered",
+    "kode": "\\uae\\ufe0f"
+  },
+  {
+    "emo": "〰️",
+    "ket": "wavy_dash",
+    "kode": "\\u3030\\ufe0f"
+  },
+  {
+    "emo": "➰",
+    "ket": "curly_loop",
+    "kode": "\\u27b0"
+  },
+  {
+    "emo": "➿",
+    "ket": "loop",
+    "kode": "\\u27bf"
+  },
+  {
+    "emo": "🔚",
+    "ket": "end",
+    "kode": "\\ud83d\\udd1a"
+  },
+  {
+    "emo": "🔙",
+    "ket": "back",
+    "kode": "\\ud83d\\udd19"
+  },
+  {
+    "emo": "🔛",
+    "ket": "on",
+    "kode": "\\ud83d\\udd1b"
+  },
+  {
+    "emo": "🔝",
+    "ket": "top",
+    "kode": "\\ud83d\\udd1d"
+  },
+  {
+    "emo": "🔜",
+    "ket": "soon",
+    "kode": "\\ud83d\\udd1c"
+  },
+  {
+    "emo": "✔️",
+    "ket": "heavy_check_mark",
+    "kode": "\\u2714\\ufe0f"
+  },
+  {
+    "emo": "☑️",
+    "ket": "ballot_box_with_check",
+    "kode": "\\u2611\\ufe0f"
+  },
+  {
+    "emo": "🔘",
+    "ket": "radio_button",
+    "kode": "\\ud83d\\udd18"
+  },
+  {
+    "emo": "⚪️",
+    "ket": "white_circle",
+    "kode": "\\u26aa\\ufe0f"
+  },
+  {
+    "emo": "⚫️",
+    "ket": "black_circle",
+    "kode": "\\u26ab\\ufe0f"
+  },
+  {
+    "emo": "🔴",
+    "ket": "red_circle",
+    "kode": "\\ud83d\\udd34"
+  },
+  {
+    "emo": "🔵",
+    "ket": "large_blue_circle",
+    "kode": "\\ud83d\\udd35"
+  },
+  {
+    "emo": "🔺",
+    "ket": "small_red_triangle",
+    "kode": "\\ud83d\\udd3a"
+  },
+  {
+    "emo": "🔻",
+    "ket": "small_red_triangle_down",
+    "kode": "\\ud83d\\udd3b"
+  },
+  {
+    "emo": "🔸",
+    "ket": "small_orange_diamond",
+    "kode": "\\ud83d\\udd38"
+  },
+  {
+    "emo": "🔹",
+    "ket": "small_blue_diamond",
+    "kode": "\\ud83d\\udd39"
+  },
+  {
+    "emo": "🔶",
+    "ket": "large_orange_diamond",
+    "kode": "\\ud83d\\udd36"
+  },
+  {
+    "emo": "🔷",
+    "ket": "large_blue_diamond",
+    "kode": "\\ud83d\\udd37"
+  },
+  {
+    "emo": "🔳",
+    "ket": "white_square_button",
+    "kode": "\\ud83d\\udd33"
+  },
+  {
+    "emo": "🔲",
+    "ket": "black_square_button",
+    "kode": "\\ud83d\\udd32"
+  },
+  {
+    "emo": "▪️",
+    "ket": "black_small_square",
+    "kode": "\\u25aa\\ufe0f"
+  },
+  {
+    "emo": "▫️",
+    "ket": "white_small_square",
+    "kode": "\\u25ab\\ufe0f"
+  },
+  {
+    "emo": "◾️",
+    "ket": "black_medium_small_square",
+    "kode": "\\u25fe\\ufe0f"
+  },
+  {
+    "emo": "◽️",
+    "ket": "white_medium_small_square",
+    "kode": "\\u25fd\\ufe0f"
+  },
+  {
+    "emo": "◼️",
+    "ket": "black_medium_square",
+    "kode": "\\u25fc\\ufe0f"
+  },
+  {
+    "emo": "◻️",
+    "ket": "white_medium_square",
+    "kode": "\\u25fb\\ufe0f"
+  },
+  {
+    "emo": "⬛️",
+    "ket": "black_large_square",
+    "kode": "\\u2b1b\\ufe0f"
+  },
+  {
+    "emo": "⬜️",
+    "ket": "white_large_square",
+    "kode": "\\u2b1c\\ufe0f"
+  },
+  {
+    "emo": "🔈",
+    "ket": "speaker",
+    "kode": "\\ud83d\\udd08"
+  },
+  {
+    "emo": "🔇",
+    "ket": "mute",
+    "kode": "\\ud83d\\udd07"
+  },
+  {
+    "emo": "🔉",
+    "ket": "sound",
+    "kode": "\\ud83d\\udd09"
+  },
+  {
+    "emo": "🔊",
+    "ket": "loud_sound",
+    "kode": "\\ud83d\\udd0a"
+  },
+  {
+    "emo": "🔔",
+    "ket": "bell",
+    "kode": "\\ud83d\\udd14"
+  },
+  {
+    "emo": "🔕",
+    "ket": "no_bell",
+    "kode": "\\ud83d\\udd15"
+  },
+  {
+    "emo": "📣",
+    "ket": "mega",
+    "kode": "\\ud83d\\udce3"
+  },
+  {
+    "emo": "📢",
+    "ket": "loudspeaker",
+    "kode": "\\ud83d\\udce2"
+  },
+  {
+    "emo": "👁‍🗨",
+    "ket": "eye_speech_bubble",
+    "kode": "\\ud83d\\udc41\\u200d\\ud83d\\udde8"
+  },
+  {
+    "emo": "💬",
+    "ket": "speech_balloon",
+    "kode": "\\ud83d\\udcac"
+  },
+  {
+    "emo": "💭",
+    "ket": "thought_balloon",
+    "kode": "\\ud83d\\udcad"
+  },
+  {
+    "emo": "🗯",
+    "ket": "right_anger_bubble",
+    "kode": "\\ud83d\\uddef"
+  },
+  {
+    "emo": "♠️",
+    "ket": "spades",
+    "kode": "\\u2660\\ufe0f"
+  },
+  {
+    "emo": "♣️",
+    "ket": "clubs",
+    "kode": "\\u2663\\ufe0f"
+  },
+  {
+    "emo": "♥️",
+    "ket": "hearts",
+    "kode": "\\u2665\\ufe0f"
+  },
+  {
+    "emo": "♦️",
+    "ket": "diamonds",
+    "kode": "\\u2666\\ufe0f"
+  },
+  {
+    "emo": "🃏",
+    "ket": "black_joker",
+    "kode": "\\ud83c\\udccf"
+  },
+  {
+    "emo": "🎴",
+    "ket": "flower_playing_cards",
+    "kode": "\\ud83c\\udfb4"
+  },
+  {
+    "emo": "🀄️",
+    "ket": "mahjong",
+    "kode": "\\ud83c\\udc04\\ufe0f"
+  },
+  {
+    "emo": "🕐",
+    "ket": "clock1",
+    "kode": "\\ud83d\\udd50"
+  },
+  {
+    "emo": "🕑",
+    "ket": "clock2",
+    "kode": "\\ud83d\\udd51"
+  },
+  {
+    "emo": "🕒",
+    "ket": "clock3",
+    "kode": "\\ud83d\\udd52"
+  },
+  {
+    "emo": "🕓",
+    "ket": "clock4",
+    "kode": "\\ud83d\\udd53"
+  },
+  {
+    "emo": "🕔",
+    "ket": "clock5",
+    "kode": "\\ud83d\\udd54"
+  },
+  {
+    "emo": "🕕",
+    "ket": "clock6",
+    "kode": "\\ud83d\\udd55"
+  },
+  {
+    "emo": "🕖",
+    "ket": "clock7",
+    "kode": "\\ud83d\\udd56"
+  },
+  {
+    "emo": "🕗",
+    "ket": "clock8",
+    "kode": "\\ud83d\\udd57"
+  },
+  {
+    "emo": "🕘",
+    "ket": "clock9",
+    "kode": "\\ud83d\\udd58"
+  },
+  {
+    "emo": "🕙",
+    "ket": "clock10",
+    "kode": "\\ud83d\\udd59"
+  },
+  {
+    "emo": "🕚",
+    "ket": "clock11",
+    "kode": "\\ud83d\\udd5a"
+  },
+  {
+    "emo": "🕛",
+    "ket": "clock12",
+    "kode": "\\ud83d\\udd5b"
+  },
+  {
+    "emo": "🕜",
+    "ket": "clock130",
+    "kode": "\\ud83d\\udd5c"
+  },
+  {
+    "emo": "🕝",
+    "ket": "clock230",
+    "kode": "\\ud83d\\udd5d"
+  },
+  {
+    "emo": "🕞",
+    "ket": "clock330",
+    "kode": "\\ud83d\\udd5e"
+  },
+  {
+    "emo": "🕟",
+    "ket": "clock430",
+    "kode": "\\ud83d\\udd5f"
+  },
+  {
+    "emo": "🕠",
+    "ket": "clock530",
+    "kode": "\\ud83d\\udd60"
+  },
+  {
+    "emo": "🕡",
+    "ket": "clock630",
+    "kode": "\\ud83d\\udd61"
+  },
+  {
+    "emo": "🕢",
+    "ket": "clock730",
+    "kode": "\\ud83d\\udd62"
+  },
+  {
+    "emo": "🕣",
+    "ket": "clock830",
+    "kode": "\\ud83d\\udd63"
+  },
+  {
+    "emo": "🕤",
+    "ket": "clock930",
+    "kode": "\\ud83d\\udd64"
+  },
+  {
+    "emo": "🕥",
+    "ket": "clock1030",
+    "kode": "\\ud83d\\udd65"
+  },
+  {
+    "emo": "🕦",
+    "ket": "clock1130",
+    "kode": "\\ud83d\\udd66"
+  },
+  {
+    "emo": "🕧",
+    "ket": "clock1230",
+    "kode": "\\ud83d\\udd67"
+  },
+  {
+    "emo": "🏳️",
+    "ket": "white_flag",
+    "kode": "\\ud83c\\udff3\\ufe0f"
+  },
+  {
+    "emo": "🏴",
+    "ket": "black_flag",
+    "kode": "\\ud83c\\udff4"
+  },
+  {
+    "emo": "🏁",
+    "ket": "checkered_flag",
+    "kode": "\\ud83c\\udfc1"
+  },
+  {
+    "emo": "🚩",
+    "ket": "triangular_flag_on_post",
+    "kode": "\\ud83d\\udea9"
+  },
+  {
+    "emo": "🏳️‍🌈",
+    "ket": "rainbow_flag",
+    "kode": "\\ud83c\\udff3\\ufe0f\\u200d\\ud83c\\udf08"
+  },
+  {
+    "emo": "🇦🇫",
+    "ket": "afghanistan",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇦🇽",
+    "ket": "aland_islands",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddfd"
+  },
+  {
+    "emo": "🇦🇱",
+    "ket": "albania",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇩🇿",
+    "ket": "algeria",
+    "kode": "\\ud83c\\udde9\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇦🇸",
+    "ket": "american_samoa",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇦🇩",
+    "ket": "andorra",
+    "kode": "\\ud83c\\udde6\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇦🇴",
+    "ket": "angola",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇦🇮",
+    "ket": "anguilla",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇦🇶",
+    "ket": "antarctica",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf6"
+  },
+  {
+    "emo": "🇦🇬",
+    "ket": "antigua_barbuda",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇦🇷",
+    "ket": "argentina",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇦🇲",
+    "ket": "armenia",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇦🇼",
+    "ket": "aruba",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇦🇺",
+    "ket": "australia",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇦🇹",
+    "ket": "austria",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇦🇿",
+    "ket": "azerbaijan",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇧🇸",
+    "ket": "bahamas",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇧🇭",
+    "ket": "bahrain",
+    "kode": "\\ud83c\\udde7\\ud83c\\udded"
+  },
+  {
+    "emo": "🇧🇩",
+    "ket": "bangladesh",
+    "kode": "\\ud83c\\udde7\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇧🇧",
+    "ket": "barbados",
+    "kode": "\\ud83c\\udde7\\ud83c\\udde7"
+  },
+  {
+    "emo": "🇧🇾",
+    "ket": "belarus",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇧🇪",
+    "ket": "belgium",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇧🇿",
+    "ket": "belize",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇧🇯",
+    "ket": "benin",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddef"
+  },
+  {
+    "emo": "🇧🇲",
+    "ket": "bermuda",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇧🇹",
+    "ket": "bhutan",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇧🇴",
+    "ket": "bolivia",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇧🇶",
+    "ket": "caribbean_netherlands",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf6"
+  },
+  {
+    "emo": "🇧🇦",
+    "ket": "bosnia_herzegovina",
+    "kode": "\\ud83c\\udde7\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇧🇼",
+    "ket": "botswana",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇧🇷",
+    "ket": "brazil",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇮🇴",
+    "ket": "british_indian_ocean_territory",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇻🇬",
+    "ket": "british_virgin_islands",
+    "kode": "\\ud83c\\uddfb\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇧🇳",
+    "ket": "brunei",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇧🇬",
+    "ket": "bulgaria",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇧🇫",
+    "ket": "burkina_faso",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇧🇮",
+    "ket": "burundi",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇨🇻",
+    "ket": "cape_verde",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddfb"
+  },
+  {
+    "emo": "🇰🇭",
+    "ket": "cambodia",
+    "kode": "\\ud83c\\uddf0\\ud83c\\udded"
+  },
+  {
+    "emo": "🇨🇲",
+    "ket": "cameroon",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇨🇦",
+    "ket": "canada",
+    "kode": "\\ud83c\\udde8\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇮🇨",
+    "ket": "canary_islands",
+    "kode": "\\ud83c\\uddee\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇰🇾",
+    "ket": "cayman_islands",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇨🇫",
+    "ket": "central_african_republic",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇹🇩",
+    "ket": "chad",
+    "kode": "\\ud83c\\uddf9\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇨🇱",
+    "ket": "chile",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇨🇳",
+    "ket": "cn",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇨🇽",
+    "ket": "christmas_island",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddfd"
+  },
+  {
+    "emo": "🇨🇨",
+    "ket": "cocos_islands",
+    "kode": "\\ud83c\\udde8\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇨🇴",
+    "ket": "colombia",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇰🇲",
+    "ket": "comoros",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇨🇬",
+    "ket": "congo_brazzaville",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇨🇩",
+    "ket": "congo_kinshasa",
+    "kode": "\\ud83c\\udde8\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇨🇰",
+    "ket": "cook_islands",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇨🇷",
+    "ket": "costa_rica",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇨🇮",
+    "ket": "cote_divoire",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇭🇷",
+    "ket": "croatia",
+    "kode": "\\ud83c\\udded\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇨🇺",
+    "ket": "cuba",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇨🇼",
+    "ket": "curacao",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇨🇾",
+    "ket": "cyprus",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇨🇿",
+    "ket": "czech_republic",
+    "kode": "\\ud83c\\udde8\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇩🇰",
+    "ket": "denmark",
+    "kode": "\\ud83c\\udde9\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇩🇯",
+    "ket": "djibouti",
+    "kode": "\\ud83c\\udde9\\ud83c\\uddef"
+  },
+  {
+    "emo": "🇩🇲",
+    "ket": "dominica",
+    "kode": "\\ud83c\\udde9\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇩🇴",
+    "ket": "dominican_republic",
+    "kode": "\\ud83c\\udde9\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇪🇨",
+    "ket": "ecuador",
+    "kode": "\\ud83c\\uddea\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇪🇬",
+    "ket": "egypt",
+    "kode": "\\ud83c\\uddea\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇸🇻",
+    "ket": "el_salvador",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddfb"
+  },
+  {
+    "emo": "🇬🇶",
+    "ket": "equatorial_guinea",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf6"
+  },
+  {
+    "emo": "🇪🇷",
+    "ket": "eritrea",
+    "kode": "\\ud83c\\uddea\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇪🇪",
+    "ket": "estonia",
+    "kode": "\\ud83c\\uddea\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇪🇹",
+    "ket": "ethiopia",
+    "kode": "\\ud83c\\uddea\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇪🇺",
+    "ket": "eu; european_union",
+    "kode": "\\ud83c\\uddea\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇫🇰",
+    "ket": "falkland_islands",
+    "kode": "\\ud83c\\uddeb\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇫🇴",
+    "ket": "faroe_islands",
+    "kode": "\\ud83c\\uddeb\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇫🇯",
+    "ket": "fiji",
+    "kode": "\\ud83c\\uddeb\\ud83c\\uddef"
+  },
+  {
+    "emo": "🇫🇮",
+    "ket": "finland",
+    "kode": "\\ud83c\\uddeb\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇫🇷",
+    "ket": "fr",
+    "kode": "\\ud83c\\uddeb\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇬🇫",
+    "ket": "french_guiana",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇵🇫",
+    "ket": "french_polynesia",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇹🇫",
+    "ket": "french_southern_territories",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇬🇦",
+    "ket": "gabon",
+    "kode": "\\ud83c\\uddec\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇬🇲",
+    "ket": "gambia",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇬🇪",
+    "ket": "georgia",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇩🇪",
+    "ket": "de",
+    "kode": "\\ud83c\\udde9\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇬🇭",
+    "ket": "ghana",
+    "kode": "\\ud83c\\uddec\\ud83c\\udded"
+  },
+  {
+    "emo": "🇬🇮",
+    "ket": "gibraltar",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇬🇷",
+    "ket": "greece",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇬🇱",
+    "ket": "greenland",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇬🇩",
+    "ket": "grenada",
+    "kode": "\\ud83c\\uddec\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇬🇵",
+    "ket": "guadeloupe",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf5"
+  },
+  {
+    "emo": "🇬🇺",
+    "ket": "guam",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇬🇹",
+    "ket": "guatemala",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇬🇬",
+    "ket": "guernsey",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇬🇳",
+    "ket": "guinea",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇬🇼",
+    "ket": "guinea_bissau",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇬🇾",
+    "ket": "guyana",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇭🇹",
+    "ket": "haiti",
+    "kode": "\\ud83c\\udded\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇭🇳",
+    "ket": "honduras",
+    "kode": "\\ud83c\\udded\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇭🇰",
+    "ket": "hong_kong",
+    "kode": "\\ud83c\\udded\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇭🇺",
+    "ket": "hungary",
+    "kode": "\\ud83c\\udded\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇮🇸",
+    "ket": "iceland",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇮🇳",
+    "ket": "india",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇮🇩",
+    "ket": "indonesia",
+    "kode": "\\ud83c\\uddee\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇮🇷",
+    "ket": "iran",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇮🇶",
+    "ket": "iraq",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf6"
+  },
+  {
+    "emo": "🇮🇪",
+    "ket": "ireland",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇮🇲",
+    "ket": "isle_of_man",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇮🇱",
+    "ket": "israel",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇮🇹",
+    "ket": "it",
+    "kode": "\\ud83c\\uddee\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇯🇲",
+    "ket": "jamaica",
+    "kode": "\\ud83c\\uddef\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇯🇵",
+    "ket": "jp",
+    "kode": "\\ud83c\\uddef\\ud83c\\uddf5"
+  },
+  {
+    "emo": "🎌",
+    "ket": "crossed_flags",
+    "kode": "\\ud83c\\udf8c"
+  },
+  {
+    "emo": "🇯🇪",
+    "ket": "jersey",
+    "kode": "\\ud83c\\uddef\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇯🇴",
+    "ket": "jordan",
+    "kode": "\\ud83c\\uddef\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇰🇿",
+    "ket": "kazakhstan",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇰🇪",
+    "ket": "kenya",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇰🇮",
+    "ket": "kiribati",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇽🇰",
+    "ket": "kosovo",
+    "kode": "\\ud83c\\uddfd\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇰🇼",
+    "ket": "kuwait",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇰🇬",
+    "ket": "kyrgyzstan",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇱🇦",
+    "ket": "laos",
+    "kode": "\\ud83c\\uddf1\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇱🇻",
+    "ket": "latvia",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddfb"
+  },
+  {
+    "emo": "🇱🇧",
+    "ket": "lebanon",
+    "kode": "\\ud83c\\uddf1\\ud83c\\udde7"
+  },
+  {
+    "emo": "🇱🇸",
+    "ket": "lesotho",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇱🇷",
+    "ket": "liberia",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇱🇾",
+    "ket": "libya",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇱🇮",
+    "ket": "liechtenstein",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇱🇹",
+    "ket": "lithuania",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇱🇺",
+    "ket": "luxembourg",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇲🇴",
+    "ket": "macau",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇲🇰",
+    "ket": "macedonia",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇲🇬",
+    "ket": "madagascar",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇲🇼",
+    "ket": "malawi",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇲🇾",
+    "ket": "malaysia",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇲🇻",
+    "ket": "maldives",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddfb"
+  },
+  {
+    "emo": "🇲🇱",
+    "ket": "mali",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇲🇹",
+    "ket": "malta",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇲🇭",
+    "ket": "marshall_islands",
+    "kode": "\\ud83c\\uddf2\\ud83c\\udded"
+  },
+  {
+    "emo": "🇲🇶",
+    "ket": "martinique",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf6"
+  },
+  {
+    "emo": "🇲🇷",
+    "ket": "mauritania",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇲🇺",
+    "ket": "mauritius",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇾🇹",
+    "ket": "mayotte",
+    "kode": "\\ud83c\\uddfe\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇲🇽",
+    "ket": "mexico",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddfd"
+  },
+  {
+    "emo": "🇫🇲",
+    "ket": "micronesia",
+    "kode": "\\ud83c\\uddeb\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇲🇩",
+    "ket": "moldova",
+    "kode": "\\ud83c\\uddf2\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇲🇨",
+    "ket": "monaco",
+    "kode": "\\ud83c\\uddf2\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇲🇳",
+    "ket": "mongolia",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇲🇪",
+    "ket": "montenegro",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇲🇸",
+    "ket": "montserrat",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇲🇦",
+    "ket": "morocco",
+    "kode": "\\ud83c\\uddf2\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇲🇿",
+    "ket": "mozambique",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇲🇲",
+    "ket": "myanmar",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇳🇦",
+    "ket": "namibia",
+    "kode": "\\ud83c\\uddf3\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇳🇷",
+    "ket": "nauru",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇳🇵",
+    "ket": "nepal",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddf5"
+  },
+  {
+    "emo": "🇳🇱",
+    "ket": "netherlands",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇳🇨",
+    "ket": "new_caledonia",
+    "kode": "\\ud83c\\uddf3\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇳🇿",
+    "ket": "new_zealand",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇳🇮",
+    "ket": "nicaragua",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇳🇪",
+    "ket": "niger",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇳🇬",
+    "ket": "nigeria",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇳🇺",
+    "ket": "niue",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇳🇫",
+    "ket": "norfolk_island",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇲🇵",
+    "ket": "northern_mariana_islands",
+    "kode": "\\ud83c\\uddf2\\ud83c\\uddf5"
+  },
+  {
+    "emo": "🇰🇵",
+    "ket": "north_korea",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddf5"
+  },
+  {
+    "emo": "🇳🇴",
+    "ket": "norway",
+    "kode": "\\ud83c\\uddf3\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇴🇲",
+    "ket": "oman",
+    "kode": "\\ud83c\\uddf4\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇵🇰",
+    "ket": "pakistan",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇵🇼",
+    "ket": "palau",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇵🇸",
+    "ket": "palestinian_territories",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇵🇦",
+    "ket": "panama",
+    "kode": "\\ud83c\\uddf5\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇵🇬",
+    "ket": "papua_new_guinea",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇵🇾",
+    "ket": "paraguay",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇵🇪",
+    "ket": "peru",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇵🇭",
+    "ket": "philippines",
+    "kode": "\\ud83c\\uddf5\\ud83c\\udded"
+  },
+  {
+    "emo": "🇵🇳",
+    "ket": "pitcairn_islands",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇵🇱",
+    "ket": "poland",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇵🇹",
+    "ket": "portugal",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇵🇷",
+    "ket": "puerto_rico",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇶🇦",
+    "ket": "qatar",
+    "kode": "\\ud83c\\uddf6\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇷🇪",
+    "ket": "reunion",
+    "kode": "\\ud83c\\uddf7\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇷🇴",
+    "ket": "romania",
+    "kode": "\\ud83c\\uddf7\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇷🇺",
+    "ket": "ru",
+    "kode": "\\ud83c\\uddf7\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇷🇼",
+    "ket": "rwanda",
+    "kode": "\\ud83c\\uddf7\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇧🇱",
+    "ket": "st_barthelemy",
+    "kode": "\\ud83c\\udde7\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇸🇭",
+    "ket": "st_helena",
+    "kode": "\\ud83c\\uddf8\\ud83c\\udded"
+  },
+  {
+    "emo": "🇰🇳",
+    "ket": "st_kitts_nevis",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇱🇨",
+    "ket": "st_lucia",
+    "kode": "\\ud83c\\uddf1\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇵🇲",
+    "ket": "st_pierre_miquelon",
+    "kode": "\\ud83c\\uddf5\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇻🇨",
+    "ket": "st_vincent_grenadines",
+    "kode": "\\ud83c\\uddfb\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇼🇸",
+    "ket": "samoa",
+    "kode": "\\ud83c\\uddfc\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇸🇲",
+    "ket": "san_marino",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇸🇹",
+    "ket": "sao_tome_principe",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇸🇦",
+    "ket": "saudi_arabia",
+    "kode": "\\ud83c\\uddf8\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇸🇳",
+    "ket": "senegal",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇷🇸",
+    "ket": "serbia",
+    "kode": "\\ud83c\\uddf7\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇸🇨",
+    "ket": "seychelles",
+    "kode": "\\ud83c\\uddf8\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇸🇱",
+    "ket": "sierra_leone",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇸🇬",
+    "ket": "singapore",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇸🇽",
+    "ket": "sint_maarten",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddfd"
+  },
+  {
+    "emo": "🇸🇰",
+    "ket": "slovakia",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇸🇮",
+    "ket": "slovenia",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇸🇧",
+    "ket": "solomon_islands",
+    "kode": "\\ud83c\\uddf8\\ud83c\\udde7"
+  },
+  {
+    "emo": "🇸🇴",
+    "ket": "somalia",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇿🇦",
+    "ket": "south_africa",
+    "kode": "\\ud83c\\uddff\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇬🇸",
+    "ket": "south_georgia_south_sandwich_islands",
+    "kode": "\\ud83c\\uddec\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇰🇷",
+    "ket": "kr",
+    "kode": "\\ud83c\\uddf0\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇸🇸",
+    "ket": "south_sudan",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇪🇸",
+    "ket": "es",
+    "kode": "\\ud83c\\uddea\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇱🇰",
+    "ket": "sri_lanka",
+    "kode": "\\ud83c\\uddf1\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇸🇩",
+    "ket": "sudan",
+    "kode": "\\ud83c\\uddf8\\ud83c\\udde9"
+  },
+  {
+    "emo": "🇸🇷",
+    "ket": "suriname",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇸🇿",
+    "ket": "swaziland",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇸🇪",
+    "ket": "sweden",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇨🇭",
+    "ket": "switzerland",
+    "kode": "\\ud83c\\udde8\\ud83c\\udded"
+  },
+  {
+    "emo": "🇸🇾",
+    "ket": "syria",
+    "kode": "\\ud83c\\uddf8\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇹🇼",
+    "ket": "taiwan",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddfc"
+  },
+  {
+    "emo": "🇹🇯",
+    "ket": "tajikistan",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddef"
+  },
+  {
+    "emo": "🇹🇿",
+    "ket": "tanzania",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇹🇭",
+    "ket": "thailand",
+    "kode": "\\ud83c\\uddf9\\ud83c\\udded"
+  },
+  {
+    "emo": "🇹🇱",
+    "ket": "timor_leste",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf1"
+  },
+  {
+    "emo": "🇹🇬",
+    "ket": "togo",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇹🇰",
+    "ket": "tokelau",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf0"
+  },
+  {
+    "emo": "🇹🇴",
+    "ket": "tonga",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf4"
+  },
+  {
+    "emo": "🇹🇹",
+    "ket": "trinidad_tobago",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf9"
+  },
+  {
+    "emo": "🇹🇳",
+    "ket": "tunisia",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇹🇷",
+    "ket": "tr",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf7"
+  },
+  {
+    "emo": "🇹🇲",
+    "ket": "turkmenistan",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇹🇨",
+    "ket": "turks_caicos_islands",
+    "kode": "\\ud83c\\uddf9\\ud83c\\udde8"
+  },
+  {
+    "emo": "🇹🇻",
+    "ket": "tuvalu",
+    "kode": "\\ud83c\\uddf9\\ud83c\\uddfb"
+  },
+  {
+    "emo": "🇺🇬",
+    "ket": "uganda",
+    "kode": "\\ud83c\\uddfa\\ud83c\\uddec"
+  },
+  {
+    "emo": "🇺🇦",
+    "ket": "ukraine",
+    "kode": "\\ud83c\\uddfa\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇦🇪",
+    "ket": "united_arab_emirates",
+    "kode": "\\ud83c\\udde6\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇬🇧",
+    "ket": "gb; uk",
+    "kode": "\\ud83c\\uddec\\ud83c\\udde7"
+  },
+  {
+    "emo": "🇺🇸",
+    "ket": "us",
+    "kode": "\\ud83c\\uddfa\\ud83c\\uddf8"
+  },
+  {
+    "emo": "🇻🇮",
+    "ket": "us_virgin_islands",
+    "kode": "\\ud83c\\uddfb\\ud83c\\uddee"
+  },
+  {
+    "emo": "🇺🇾",
+    "ket": "uruguay",
+    "kode": "\\ud83c\\uddfa\\ud83c\\uddfe"
+  },
+  {
+    "emo": "🇺🇿",
+    "ket": "uzbekistan",
+    "kode": "\\ud83c\\uddfa\\ud83c\\uddff"
+  },
+  {
+    "emo": "🇻🇺",
+    "ket": "vanuatu",
+    "kode": "\\ud83c\\uddfb\\ud83c\\uddfa"
+  },
+  {
+    "emo": "🇻🇦",
+    "ket": "vatican_city",
+    "kode": "\\ud83c\\uddfb\\ud83c\\udde6"
+  },
+  {
+    "emo": "🇻🇪",
+    "ket": "venezuela",
+    "kode": "\\ud83c\\uddfb\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇻🇳",
+    "ket": "vietnam",
+    "kode": "\\ud83c\\uddfb\\ud83c\\uddf3"
+  },
+  {
+    "emo": "🇼🇫",
+    "ket": "wallis_futuna",
+    "kode": "\\ud83c\\uddfc\\ud83c\\uddeb"
+  },
+  {
+    "emo": "🇪🇭",
+    "ket": "western_sahara",
+    "kode": "\\ud83c\\uddea\\ud83c\\udded"
+  },
+  {
+    "emo": "🇾🇪",
+    "ket": "yemen",
+    "kode": "\\ud83c\\uddfe\\ud83c\\uddea"
+  },
+  {
+    "emo": "🇿🇲",
+    "ket": "zambia",
+    "kode": "\\ud83c\\uddff\\ud83c\\uddf2"
+  },
+  {
+    "emo": "🇿🇼",
+    "ket": "zimbabwe",
+    "kode": "\\ud83c\\uddff\\ud83c\\uddfc"
+  }
+]
