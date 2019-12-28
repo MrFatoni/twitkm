@@ -3,9 +3,9 @@ require 'autoload.php';
 use Abraham\TwitterOAuth\TwitterOAuth;
 $sesi=isset($_SESSION['access_token'])?$sesi='login':$sesi='notlogin';
 if(isset($_REQUEST['u'])){$page='user';$username=$_REQUEST['u'];} else if(isset($_REQUEST['e'])){$page='ekstrak';$username=$_REQUEST['e'];} else{$page='home';}
-define('CONSUMER_KEY', 'VqBfpmbEtAEPejdeOz2CQ'); 	// add your app consumer key between single quotes
-define('CONSUMER_SECRET', 'wvX0fu8dsbx7iPMEbqC3beMszsDG7xGMFzJFTgQKGjg');
-define('OAUTH_CALLBACK', 'https://petadata.xyz/callback.php');
+define('CONSUMER_KEY', 'yorcustomerkey'); 	// add your app consumer key between single quotes
+define('CONSUMER_SECRET', 'yorcustomerkeysecret');
+define('OAUTH_CALLBACK', 'https://yoursite/callback.php');
 if ($sesi=='notlogin') {
 	$connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET);
 	$request_token = $connection->oauth('oauth/request_token', array('oauth_callback' => OAUTH_CALLBACK));
